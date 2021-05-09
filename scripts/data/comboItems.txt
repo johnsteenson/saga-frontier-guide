@@ -1,0 +1,39 @@
+           Asura |    |  <R|S>  |  <R|    |    |    |    | Asura
+ *CharmNecklace* |    |    |S>  |    |    |    |    |    | *CharmNecklace*
+      Cockatrice |S>  |S>  |S>  |    |  <R|  <R|    |    | Cockatrice
+    *DanceShoes* |S>  |S>  |S>  |    |    |    |    |    | *DanceShoes*
+       DirtyFang |  <R|S>  |S>  |    |    |    |    |    | DirtyFang
+ *DurahanShield* |S>  |S>  |S>  |    |    |    |    |    | *DurahanShield*
+ ElementDissolve |    |    |S>  |    |    |    |    |    | ElementDissolve
+     FinalStrike |S>  |S>  |S>  |S>  |S>  |S>  |S>  |S>  | FinalStrike
+    IronclogShot |S>  |S>  |S><R|    |    |    |    |    | IronclogShot
+        Kusanagi |    |    |S><R|  <R|    |    |  <R|    | Kusanagi
+       Maelstrom |S>  |S>  |S>  |    |  -r|S>  |    |    | Maelstrom
+       *Magihat* |    |S>  |S>  |    |    |    |    |    | *Magihat*
+  MillionDollers |S>  |S>  |S>-r|  -r|  -r|    |  -r|    | MillionDollers
+     *PurpleEye* |S>  |S>  |S>  |    |  <R|  <R|    |    | *PurpleEye*
+      SacredSong |S>  |S>  |S>  |    |  -r|  -r|    |    | SacredSong
+    *SandVessel* |    |S><R|S>  |    |    |    |    |    | *SandVessel*
+      *SeaStone* |    |    |  <R|S><R|  <R|S>  |    |    | *SeaStone*
+      ShadowHold |S>  |S>  |S>  |    |    |    |    |    | ShadowHold
+      SilverFang |    |S>  |S>  |S>  |    |    |    |    | SilverFang
+       TwinSword |  <R|    |    |    |  <R|    |    |    | TwinSword
+
+    *BeamCannon* |    |  <R|S>  |  <R|S>  |  <R|    |    | *BeamCannon*
+         Blaster |    |  <R|S>  |  <R|  <R|  <R|    |    | Blaster
+    BlasterSword |    |  <R|S>  |  <R|  <R|    |    |    | BlasterSword
+  *Bolt Thrower* |S><R|S>  |S>  |    |  <R|  <R|    |    | *Bolt Thrower*
+ DestructionBeam |    |  <R|S>  |  <R|  <R|  <R|    |    | DestructionBeam
+ *DOBBY Bazooka* |  -r|S>  |S>  |  -r|S>  |  -r|    |    | *DOBBY Bazooka*
+    FlameThrower |    |  <R|S>  |    |S>  |  <R|    |    | FlameThrower
+     GhostCannon |    |  <R|S>  |  <R|  <R|S>  |    |    | GhostCannon
+       HE-Rocket |  <R|    |S>  |  <R|S>  |  <R|    |    | HE-Rocket
+*HyperionBazooka |    |    |S><R|    |S>  |    |    |    | HyperionBazooka*
+*LightningCannon |S><R|S>  |S>  |  <R|  <R|  <R|    |    | LightningCannon*
+         Missile |  <R|    |S>  |  <R|S>  |  <R|    |    | Missile
+       Paralyzer |S>  |S>  |S>  |    |    |    |    |    | Paralyzer
+    PlasmaBullet |S>  |S>  |S>  |  <R|  <R|S><R|    |    | PlasmaBullet
+   *SonicCannon* |    |S>  |S><R|  <R|  <R|    |  <R|    | *SonicCannon*
+   *Thunderbolt* |S><R|S>  |S>  |  <R|  <R|  <R|    |    | *Thunderbolt*
+          Vulcan |  <R|S>  |S>  |    |    |    |    |    | Vulcan
+     WaterCannon |    |    |  <R|S><R|  <R|S>  |    |    | WaterCannon

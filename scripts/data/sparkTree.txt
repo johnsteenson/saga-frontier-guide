@@ -1,0 +1,363 @@
+Slash
+  ->     StunSlash |  5
+  ->   DoubleSlash |  8
+  ->     HardSlash | 12
+  ->        Thrust | 13
+  ->    CrossSlash | 16
+  ->         Smash | 14
+  ->  SwallowSwing | 17
+  ->   Heaven/Hell | 22
+  ->    WheelSlash | 20
+  ->  WillowBranch | 23
+  ->       Deflect | 17
+  ->     BearCrush | 24
+  ->       DeadEnd | 27
+  ->      HeadWind | 31
+  ->  TripleThrust | 33
+  ->        Kasumi | 26
+  ->      NoMoment | 38
+  ->     GaleSlash | 24
+  ->    2GaleSlash | 30
+  -> TurbidCurrent | 41
+  ->  CrossDeflect | 12
+  ->    RisingNova | 43
+  -> LifeSprinkler | 45
+
+StunSlash
+  ->   DoubleSlash |  8
+  ->  SwallowSwing | 14
+  -> ThunderThrust | 13
+  ->    WheelSlash | 18
+  ->       Deflect | 16
+  ->      HeadWind | 26
+  ->        Kasumi | 25
+  ->     GaleSlash | 23
+  ->    2GaleSlash | 28
+
+DoubleSlash
+  ->     HardSlash |  9
+  ->    CrossSlash | 12
+  ->         Smash | 10
+  ->  SwallowSwing | 12
+  ->   Heaven/Hell | 17
+  ->       Deflect | 15
+  ->     BearCrush | 22
+  ->      HeadWind | 24
+  ->        Kasumi | 25
+  ->     GaleSlash | 23
+  ->    2GaleSlash | 28
+
+HardSlash
+  ->         Smash | 10
+  ->   Heaven/Hell | 15
+  ->     BearCrush | 22
+  ->      NoMoment | 34
+  -> TurbidCurrent | 35
+
+Thrust
+  -> ThunderThrust | 16
+  ->       DeadEnd | 21
+  ->  TripleThrust | 29
+
+CrossSlash
+  ->       Deflect |  8
+  ->    2GaleSlash | 28
+  ->  CrossDeflect | 10
+
+Smash
+  ->   Heaven/Hell | 17
+  ->       Deflect | 17
+  ->     BearCrush | 20
+  ->       DeadEnd | 25
+
+SwallowSwing
+  ->       Deflect | 21
+  ->     GaleSlash | 15
+  ->    2GaleSlash | 28
+
+ThunderThrust
+  ->       Deflect | 14
+  ->       DeadEnd | 23
+  ->  TripleThrust | 27
+  ->        Kasumi | 24
+  -> RosarioImpale | 34
+
+Heaven/Hell
+  ->  WillowBranch | 19
+  ->       Deflect | 16
+  ->  TripleThrust | 29
+  ->        Kasumi | 27
+
+WheelSlash
+  -> Haze-to-Wheel | 36
+
+WillowBranch
+  ->       Deflect | 16
+  ->        Kasumi | 23
+  ->    RisingNova | 31
+
+BearCrush
+  ->       Deflect | 21
+  -> RosarioImpale | 37
+
+DeadEnd
+  ->       Deflect | 23
+  -> RosarioImpale | 30
+
+HeadWind
+  ->       Deflect | 17
+  ->        Kasumi | 23
+  ->      NoMoment | 32
+  -> TurbidCurrent | 36
+
+TripleThrust
+  ->       Deflect | 16
+  -> RosarioImpale | 38
+
+NoMoment
+  ->        Kasumi | 22
+  ->  Still Stream | 38
+
+GaleSlash
+  ->       Deflect | 13
+  ->    2GaleSlash | 26
+  ->  CrossDeflect | 17
+
+Still Stream
+  ->        Kasumi | 24
+
+TurbidCurrent
+  -> LifeSprinkler | 40
+
+TwinSword
+  ->   Heaven/Hell | 20
+
+Asura
+  ->       Deflect | 20
+
+Katana
+  ->     StunSlash |  4
+  ->   DoubleSlash |  7
+  ->     HardSlash | 11
+  ->        Thrust | 12
+  ->  SwallowSwing | 16
+  ->   Heaven/Hell | 20
+  ->    WheelSlash | 19
+  ->  WillowBranch | 22
+  ->      HeadWind | 30
+  ->  TripleThrust | 32
+  ->        Kasumi | 26
+  ->      NoMoment | 36
+  ->     GaleSlash | 23
+  ->  Still Stream | 40
+  ->  MoonlightCut | 27
+  -> ShadowCounter | 21
+  ->      Blizzard | 35
+  ->   Tres Flores | 45
+
+MoonlightCut
+  ->  WillowBranch | 18
+  ->      NoMoment | 38
+  ->        Kasumi | 25
+  ->  Still Stream | 34
+  -> ShadowCounter | 17
+  ->      Blizzard | 26
+  ->   Tres Flores | 39
+
+ShadowCounter
+  ->      HeadWind | 25
+  ->  TripleThrust | 31
+  ->        Kasumi | 26
+  -> TurbidCurrent | 35
+  -> LifeSprinkler | 38
+  ->  MoonlightCut | 22
+  ->      Blizzard | 29
+  ->   Tres Flores | 40
+
+Blizzard
+  ->      NoMoment | 32
+  ->  MoonlightCut | 20
+  -> ShadowCounter | 19
+  ->   Tres Flores | 37
+
+Punch
+  ->          Kick |  3
+  ->      AirThrow | 10
+  ->          Chop |  8
+  ->       Sliding | 12
+  -> RollingCradle | 15
+  ->      SwayBack | 12
+  ->          Fist | 16
+  ->      Backfist | 18
+  ->     CrushBeat | 23
+  -> Rotation Kick | 26
+  ->      KO Throw | 17
+  ->      GoldHand | 37
+  ->  TriangleKick | 34
+  ->       OgreRun | 32
+  ->       Scuffle | 31
+  ->    DragonTurn | 20
+  ->      Lastshot | 44
+  ->     Corkscrew | 42
+  ->    SkyTwister | 40
+
+Kick
+  ->      AirThrow | 10
+  ->       Sliding |  6
+  ->      SwayBack | 12
+  -> Rotation Kick | 17
+  ->      KO Throw | 16
+  ->  TriangleKick | 25
+  ->  BabelCrumble | 27
+  ->     Corkscrew | 41
+  ->    SkyTwister | 37
+
+AirThrow
+  -> RollingCradle |  8
+  ->      KO Throw | 14
+  ->        Suplex | 13
+  ->    GiantSwing | 19
+  ->  BabelCrumble | 28
+  ->   LocomotionG | 17
+  ->    DragonTurn | 18
+  ->    SkyTwister | 35
+
+Chop
+  ->      SwayBack | 12
+  ->      Backfist | 14
+  ->      KO Throw | 17
+  ->       Scuffle | 29
+  ->    DragonTurn | 20
+
+Sliding
+  ->      SwayBack | 12
+  -> Rotation Kick | 16
+  ->  BabelCrumble | 24
+  ->  TriangleKick | 29
+  ->    DragonTurn | 25
+  ->     Corkscrew | 36
+
+RollingCradle
+  ->      KOThrow | 17
+  ->    DragonTurn | 24
+
+Fist
+  ->      SwayBack | 12
+  ->      KOThrow | 17
+  ->      GoldHand | 26
+  ->    DragonTurn | 22
+
+Backfist
+  ->      SwayBack | 11
+  ->     CrushBeat | 19
+  ->      KO Throw | 20
+  ->       OgreRun | 27
+  ->       Scuffle | 33
+  ->    DragonTurn | 24
+  ->     Corkscrew | 40
+
+CrushBeat
+  ->      SwayBack | 13
+  ->      Backfist | 25
+  ->       OgreRun | 30
+  ->       Scuffle | 29
+
+Rotation Kick
+  ->       Sliding | 12
+  ->      SwayBack | 13
+  ->      KO Throw | 17
+  ->  TriangleKick | 29
+  ->       OgreRun | 30
+  ->     Corkscrew | 38
+
+Suplex
+  -> RollingCradle | 15
+  ->      KOThrow | 16
+  ->    GiantSwing | 18
+  ->  BabelCrumble | 23
+  ->   LocomotionG | 20
+  ->    DragonTurn | 22
+
+GiantSwing
+  -> RollingCradle | 11
+  ->      KOThrow | 13
+  ->        Suplex | 20
+  ->   LocomotionG | 19
+  ->    DragonTurn | 17
+
+GoldHand
+  ->      SwayBack | 12
+  ->      KOThrow | 16
+  ->      Lastshot | 38
+  ->     Corkscrew | 39
+
+BabelCrumble
+  ->       Sliding |  9
+  -> RollingCradle | 10
+  ->      SwayBack | 12
+  ->      KO Throw | 17
+  ->        Suplex | 32
+  ->  TriangleKick | 36
+  ->       OgreRun | 36
+  ->    DragonTurn | 17
+  ->    SkyTwister | 37
+
+TriangleKick
+  ->      SwayBack | 14
+  -> RotationKick | 23
+  ->       OgreRun | 35
+  ->     Corkscrew | 39
+  ->    SkyTwister | 33
+
+OgreRun
+  ->      KO Throw | 15
+  ->    DragonTurn | 17
+  ->      Lastshot | 34
+  ->     Corkscrew | 38
+
+LocomotionG
+  ->      KO Throw | 16
+  ->        Suplex | 14
+  ->    GiantSwing | 20
+  ->  BabelCrumble | 24
+  ->    DragonTurn | 20
+
+Lastshot
+  ->      SwayBack | 12
+  ->      GoldHand | 43
+
+BrightFist
+  -> SparklingRoll | 14
+  ->     FlashTurn | 28
+  ->    Al-Blaster | 12
+  ->    Al-Phoenix | 32
+  ->   ShiningKick | 11
+  ->  DeflectLance | 26
+
+ShiningKick
+  ->    Al-Phoenix | 33
+  ->  DeflectLance | 22
+
+Al-Blaster
+  ->    Al-Phoenix | 27
+  ->  DeflectLance | 24
+
+RaySword
+  ->     StunSlash |  6
+  ->   DoubleSlash |  9
+  ->     HardSlash | 13
+  ->    CrossSlash | 18
+  ->         Smash | 14
+  ->  SwallowSwing | 18
+  ->   Heaven/Hell | 22
+  ->    WheelSlash | 21
+  ->       Deflect |  9
+  ->     BearCrush | 24
+  ->       DeadEnd | 29
+  ->      HeadWind | 32
+  ->     GaleSlash | 25
+  ->    2GaleSlash | 28
+  ->    RisingNova | 42
+  ->    KaiserWing | 15
+  ->   KaiserSmash | 23
+  ->    BrightFist | 10

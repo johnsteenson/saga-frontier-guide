@@ -1,0 +1,50 @@
+
+       FlashFire |  -r|S>  |S>  |    |S>  |  -r|    |    | FlashFire
+      FlashFlood |    |    |S>  |    |    |    |    |    | FlashFlood
+   MegaWindblast |S>-r|    |    |S>  |S>  |S>  |    |    | MegaWindblast
+          SunRay |  <R|S>  |S>  |    |S>  |  <R|    |    | SunRay
+
+      DarkSphere |S>  |S>  |S><R|S><R|  <R|S>  |  <R|    | DarkSphere
+      Hidebehind |S><R|S>  |S>  |  <R|    |    |    |    | Hidebehind
+       PowerGrab |    |    |S>  |    |    |    |    |    | PowerGrab
+       ShadowNet |  -r|S>  |S>  |S>  |  -r|  -r|    |    | ShadowNet
+
+  ReverseGravity |  -r|S>  |S>  |S>  |    |    |    |    | ReverseGravity
+          Vanish |    |    |    |    |    |    |    |    | Vanish
+      VaporBlast |S>  |S>  |S>  |  <R|  <R|    |    |    | VaporBlast
+          Vortex |    |    |    |    |    |    |    |    | Vortex
+
+     ChaosStream |S>  |S>  |  -r|S>-r|S>-r|S>  |  -r|    | ChaosStream
+      DelayOrder |    |    |S>  |    |    |    |    |    | DelayOrder
+     TimeEclipse |  <R|S>  |S>  |  <R|  <R|  <R|    |    | TimeEclipse
+        TimeLeap |    |    |    |    |    |    |    |    | TimeLeap
+
+     EnergyChain |    |S><R|S>  |  <R|    |  <R|    |    | EnergyChain
+       Implosion |    |  <R|S>  |  <R|S>  |  <R|    |    | Implosion
+   PsychicPrison |    |    |    |    |    |    |    |    | PsychicPrison
+   VermilionSand |    |S>-r|S>  |S>-r|S>  |  -r|    |    | VermilionSand
+
+     Fascination |    |    |    |    |    |    |    |    | Fascination
+    PhantasmShot |S>  |S>  |S>  |    |  <R|  <R|    |    | PhantasmShot
+
+        Lifewave |S><R|S>  |S>  |    |  <R|  <R|    |    | Lifewave
+      Spellbound |    |S>  |S>  |    |    |    |    |    | Spellbound
+
+      Deathcurse |    |    |    |    |    |    |    |    | Deathcurse
+     PainDoubler |  -r|S>  |S>  |    |    |S>  |    |    | PainDoubler
+        RavaShot |S>  |S>  |S><R|  <R|    |S>  |    |    | RavaShot
+       SharpPain |S>  |S>-r|S>  |    |    |S>  |    |    | SharpPain
+
+           Death |    |    |    |    |    |    |    |    | Death
+            Gold |S>  |S>  |S>  |    |    |    |    |    | Gold
+           Saber |    |S>  |S>  |  <R|  <R|    |    |    | Saber
+           Tower |  <R|S>  |S>  |  <R|S>  |  <R|    |    | Tower
+
+       DwarfRune |    |    |    |    |    |    |    |    | DwarfRune
+      StasisRune |    |    |    |    |    |    |    |    | StasisRune
+
+        BlackCat |S>  |S>  |S>  |    |  <R|  <R|    |    | BlackCat
+      Cockatrice |S>  |S>  |S>  |    |  <R|  <R|    |    | Cockatrice
+          Jackal |S>  |S>  |S>  |    |  <R|  <R|    |    | Jackal
+       Nightmare |S>  |S>  |S>  |    |  <R|  <R|    |    | Nightmare
+          Reaper |S>  |S>  |S>  |    |  <R|  <R|    |    | Reaper

@@ -1,0 +1,4371 @@
+[
+  {
+    "name": "Slash",
+    "sparkTo": [
+      {
+        "tech": "StunSlash",
+        "chance": 5
+      },
+      {
+        "tech": "DoubleSlash",
+        "chance": 8
+      },
+      {
+        "tech": "HardSlash",
+        "chance": 12
+      },
+      {
+        "tech": "Thrust",
+        "chance": 13
+      },
+      {
+        "tech": "CrossSlash",
+        "chance": 16
+      },
+      {
+        "tech": "Smash",
+        "chance": 14
+      },
+      {
+        "tech": "SwallowSwing",
+        "chance": 17
+      },
+      {
+        "tech": "Heaven/Hell",
+        "chance": 22
+      },
+      {
+        "tech": "WheelSlash",
+        "chance": 20
+      },
+      {
+        "tech": "WillowBranch",
+        "chance": 23
+      },
+      {
+        "tech": "Deflect",
+        "chance": 17
+      },
+      {
+        "tech": "BearCrush",
+        "chance": 24
+      },
+      {
+        "tech": "DeadEnd",
+        "chance": 27
+      },
+      {
+        "tech": "HeadWind",
+        "chance": 31
+      },
+      {
+        "tech": "TripleThrust",
+        "chance": 33
+      },
+      {
+        "tech": "Kasumi",
+        "chance": 26
+      },
+      {
+        "tech": "NoMoment",
+        "chance": 38
+      },
+      {
+        "tech": "GaleSlash",
+        "chance": 24
+      },
+      {
+        "tech": "2GaleSlash",
+        "chance": 30
+      },
+      {
+        "tech": "TurbidCurrent",
+        "chance": 41
+      },
+      {
+        "tech": "CrossDeflect",
+        "chance": 12
+      },
+      {
+        "tech": "RisingNova",
+        "chance": 43
+      },
+      {
+        "tech": "LifeSprinkler",
+        "chance": 45
+      }
+    ]
+  },
+  {
+    "name": "StunSlash",
+    "sparkTo": [
+      {
+        "tech": "DoubleSlash",
+        "chance": 8
+      },
+      {
+        "tech": "SwallowSwing",
+        "chance": 14
+      },
+      {
+        "tech": "ThunderThrust",
+        "chance": 13
+      },
+      {
+        "tech": "WheelSlash",
+        "chance": 18
+      },
+      {
+        "tech": "Deflect",
+        "chance": 16
+      },
+      {
+        "tech": "HeadWind",
+        "chance": 26
+      },
+      {
+        "tech": "Kasumi",
+        "chance": 25
+      },
+      {
+        "tech": "GaleSlash",
+        "chance": 23
+      },
+      {
+        "tech": "2GaleSlash",
+        "chance": 28
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "DoubleSlash",
+    "sparkTo": [
+      {
+        "tech": "HardSlash",
+        "chance": 9
+      },
+      {
+        "tech": "CrossSlash",
+        "chance": 12
+      },
+      {
+        "tech": "Smash",
+        "chance": 10
+      },
+      {
+        "tech": "SwallowSwing",
+        "chance": 12
+      },
+      {
+        "tech": "Heaven/Hell",
+        "chance": 17
+      },
+      {
+        "tech": "Deflect",
+        "chance": 15
+      },
+      {
+        "tech": "BearCrush",
+        "chance": 22
+      },
+      {
+        "tech": "HeadWind",
+        "chance": 24
+      },
+      {
+        "tech": "Kasumi",
+        "chance": 25
+      },
+      {
+        "tech": "GaleSlash",
+        "chance": 23
+      },
+      {
+        "tech": "2GaleSlash",
+        "chance": 28
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "",
+      "MV": "",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "HardSlash",
+    "sparkTo": [
+      {
+        "tech": "Smash",
+        "chance": 10
+      },
+      {
+        "tech": "Heaven/Hell",
+        "chance": 15
+      },
+      {
+        "tech": "BearCrush",
+        "chance": 22
+      },
+      {
+        "tech": "NoMoment",
+        "chance": 34
+      },
+      {
+        "tech": "TurbidCurrent",
+        "chance": 35
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "R",
+      "HT": "",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Thrust",
+    "sparkTo": [
+      {
+        "tech": "ThunderThrust",
+        "chance": 16
+      },
+      {
+        "tech": "DeadEnd",
+        "chance": 21
+      },
+      {
+        "tech": "TripleThrust",
+        "chance": 29
+      }
+    ],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "CrossSlash",
+    "sparkTo": [
+      {
+        "tech": "Deflect",
+        "chance": 8
+      },
+      {
+        "tech": "2GaleSlash",
+        "chance": 28
+      },
+      {
+        "tech": "CrossDeflect",
+        "chance": 10
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Smash",
+    "sparkTo": [
+      {
+        "tech": "Heaven/Hell",
+        "chance": 17
+      },
+      {
+        "tech": "Deflect",
+        "chance": 17
+      },
+      {
+        "tech": "BearCrush",
+        "chance": 20
+      },
+      {
+        "tech": "DeadEnd",
+        "chance": 25
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "SwallowSwing",
+    "sparkTo": [
+      {
+        "tech": "Deflect",
+        "chance": 21
+      },
+      {
+        "tech": "GaleSlash",
+        "chance": 15
+      },
+      {
+        "tech": "2GaleSlash",
+        "chance": 28
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "SR",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "ThunderThrust",
+    "sparkTo": [
+      {
+        "tech": "Deflect",
+        "chance": 14
+      },
+      {
+        "tech": "DeadEnd",
+        "chance": 23
+      },
+      {
+        "tech": "TripleThrust",
+        "chance": 27
+      },
+      {
+        "tech": "Kasumi",
+        "chance": 24
+      },
+      {
+        "tech": "RosarioImpale",
+        "chance": 34
+      },
+      {
+        "tech": "WillowBranch",
+        "chance": 19
+      },
+      {
+        "tech": "Deflect",
+        "chance": 16
+      },
+      {
+        "tech": "TripleThrust",
+        "chance": 29
+      },
+      {
+        "tech": "Kasumi",
+        "chance": 27
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "SR",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "WheelSlash",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "WillowBranch",
+    "sparkTo": [
+      {
+        "tech": "Deflect",
+        "chance": 16
+      },
+      {
+        "tech": "Kasumi",
+        "chance": 23
+      },
+      {
+        "tech": "RisingNova",
+        "chance": 31
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "S",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "BearCrush",
+    "sparkTo": [
+      {
+        "tech": "Deflect",
+        "chance": 21
+      },
+      {
+        "tech": "RosarioImpale",
+        "chance": 37
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "DeadEnd",
+    "sparkTo": [
+      {
+        "tech": "Deflect",
+        "chance": 23
+      },
+      {
+        "tech": "RosarioImpale",
+        "chance": 30
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "",
+      "IS": "",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "HeadWind",
+    "sparkTo": [
+      {
+        "tech": "Deflect",
+        "chance": 17
+      },
+      {
+        "tech": "Kasumi",
+        "chance": 23
+      },
+      {
+        "tech": "NoMoment",
+        "chance": 32
+      },
+      {
+        "tech": "TurbidCurrent",
+        "chance": 36
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "TripleThrust",
+    "sparkTo": [
+      {
+        "tech": "Deflect",
+        "chance": 16
+      },
+      {
+        "tech": "RosarioImpale",
+        "chance": 38
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "NoMoment",
+    "sparkTo": [
+      {
+        "tech": "Kasumi",
+        "chance": 22
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "GaleSlash",
+    "sparkTo": [
+      {
+        "tech": "Deflect",
+        "chance": 13
+      },
+      {
+        "tech": "2GaleSlash",
+        "chance": 26
+      },
+      {
+        "tech": "CrossDeflect",
+        "chance": 17
+      },
+      {
+        "tech": "Kasumi",
+        "chance": 24
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "TurbidCurrent",
+    "sparkTo": [
+      {
+        "tech": "LifeSprinkler",
+        "chance": 40
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "S",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "TwinSword",
+    "sparkTo": [
+      {
+        "tech": "Heaven/Hell",
+        "chance": 20
+      }
+    ]
+  },
+  {
+    "name": "Asura",
+    "sparkTo": [
+      {
+        "tech": "Deflect",
+        "chance": 20
+      }
+    ]
+  },
+  {
+    "name": "Katana",
+    "sparkTo": [
+      {
+        "tech": "StunSlash",
+        "chance": 4
+      },
+      {
+        "tech": "DoubleSlash",
+        "chance": 7
+      },
+      {
+        "tech": "HardSlash",
+        "chance": 11
+      },
+      {
+        "tech": "Thrust",
+        "chance": 12
+      },
+      {
+        "tech": "SwallowSwing",
+        "chance": 16
+      },
+      {
+        "tech": "Heaven/Hell",
+        "chance": 20
+      },
+      {
+        "tech": "WheelSlash",
+        "chance": 19
+      },
+      {
+        "tech": "WillowBranch",
+        "chance": 22
+      },
+      {
+        "tech": "HeadWind",
+        "chance": 30
+      },
+      {
+        "tech": "TripleThrust",
+        "chance": 32
+      },
+      {
+        "tech": "Kasumi",
+        "chance": 26
+      },
+      {
+        "tech": "NoMoment",
+        "chance": 36
+      },
+      {
+        "tech": "GaleSlash",
+        "chance": 23
+      },
+      {
+        "tech": "MoonlightCut",
+        "chance": 27
+      },
+      {
+        "tech": "ShadowCounter",
+        "chance": 21
+      },
+      {
+        "tech": "Blizzard",
+        "chance": 35
+      }
+    ]
+  },
+  {
+    "name": "MoonlightCut",
+    "sparkTo": [
+      {
+        "tech": "WillowBranch",
+        "chance": 18
+      },
+      {
+        "tech": "NoMoment",
+        "chance": 38
+      },
+      {
+        "tech": "Kasumi",
+        "chance": 25
+      },
+      {
+        "tech": "ShadowCounter",
+        "chance": 17
+      },
+      {
+        "tech": "Blizzard",
+        "chance": 26
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "S",
+      "BO": "S",
+      "SN": "R"
+    }
+  },
+  {
+    "name": "ShadowCounter",
+    "sparkTo": [
+      {
+        "tech": "HeadWind",
+        "chance": 25
+      },
+      {
+        "tech": "TripleThrust",
+        "chance": 31
+      },
+      {
+        "tech": "Kasumi",
+        "chance": 26
+      },
+      {
+        "tech": "TurbidCurrent",
+        "chance": 35
+      },
+      {
+        "tech": "LifeSprinkler",
+        "chance": 38
+      },
+      {
+        "tech": "MoonlightCut",
+        "chance": 22
+      },
+      {
+        "tech": "Blizzard",
+        "chance": 29
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "SR",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Blizzard",
+    "sparkTo": [
+      {
+        "tech": "NoMoment",
+        "chance": 32
+      },
+      {
+        "tech": "MoonlightCut",
+        "chance": 20
+      },
+      {
+        "tech": "ShadowCounter",
+        "chance": 19
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "",
+      "MV": "",
+      "HT": "S",
+      "CL": "",
+      "BO": "",
+      "SN": "S"
+    }
+  },
+  {
+    "name": "Punch",
+    "sparkTo": [
+      {
+        "tech": "Kick",
+        "chance": 3
+      },
+      {
+        "tech": "AirThrow",
+        "chance": 10
+      },
+      {
+        "tech": "Chop",
+        "chance": 8
+      },
+      {
+        "tech": "Sliding",
+        "chance": 12
+      },
+      {
+        "tech": "RollingCradle",
+        "chance": 15
+      },
+      {
+        "tech": "SwayBack",
+        "chance": 12
+      },
+      {
+        "tech": "Fist",
+        "chance": 16
+      },
+      {
+        "tech": "Backfist",
+        "chance": 18
+      },
+      {
+        "tech": "CrushBeat",
+        "chance": 23
+      },
+      {
+        "tech": "GoldHand",
+        "chance": 37
+      },
+      {
+        "tech": "TriangleKick",
+        "chance": 34
+      },
+      {
+        "tech": "OgreRun",
+        "chance": 32
+      },
+      {
+        "tech": "Scuffle",
+        "chance": 31
+      },
+      {
+        "tech": "DragonTurn",
+        "chance": 20
+      },
+      {
+        "tech": "Lastshot",
+        "chance": 44
+      },
+      {
+        "tech": "Corkscrew",
+        "chance": 42
+      },
+      {
+        "tech": "SkyTwister",
+        "chance": 40
+      }
+    ]
+  },
+  {
+    "name": "Kick",
+    "sparkTo": [
+      {
+        "tech": "AirThrow",
+        "chance": 10
+      },
+      {
+        "tech": "Sliding",
+        "chance": 6
+      },
+      {
+        "tech": "SwayBack",
+        "chance": 12
+      },
+      {
+        "tech": "TriangleKick",
+        "chance": 25
+      },
+      {
+        "tech": "BabelCrumble",
+        "chance": 27
+      },
+      {
+        "tech": "Corkscrew",
+        "chance": 41
+      },
+      {
+        "tech": "SkyTwister",
+        "chance": 37
+      }
+    ],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "AirThrow",
+    "sparkTo": [
+      {
+        "tech": "RollingCradle",
+        "chance": 8
+      },
+      {
+        "tech": "Suplex",
+        "chance": 13
+      },
+      {
+        "tech": "GiantSwing",
+        "chance": 19
+      },
+      {
+        "tech": "BabelCrumble",
+        "chance": 28
+      },
+      {
+        "tech": "LocomotionG",
+        "chance": 17
+      },
+      {
+        "tech": "DragonTurn",
+        "chance": 18
+      },
+      {
+        "tech": "SkyTwister",
+        "chance": 35
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "S",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Chop",
+    "sparkTo": [
+      {
+        "tech": "SwayBack",
+        "chance": 12
+      },
+      {
+        "tech": "Backfist",
+        "chance": 14
+      },
+      {
+        "tech": "Scuffle",
+        "chance": 29
+      },
+      {
+        "tech": "DragonTurn",
+        "chance": 20
+      }
+    ],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "R",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Sliding",
+    "sparkTo": [
+      {
+        "tech": "SwayBack",
+        "chance": 12
+      },
+      {
+        "tech": "BabelCrumble",
+        "chance": 24
+      },
+      {
+        "tech": "TriangleKick",
+        "chance": 29
+      },
+      {
+        "tech": "DragonTurn",
+        "chance": 25
+      },
+      {
+        "tech": "Corkscrew",
+        "chance": 36
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "RollingCradle",
+    "sparkTo": [
+      {
+        "tech": "KOThrow",
+        "chance": 17
+      },
+      {
+        "tech": "DragonTurn",
+        "chance": 24
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "S",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Fist",
+    "sparkTo": [
+      {
+        "tech": "SwayBack",
+        "chance": 12
+      },
+      {
+        "tech": "KOThrow",
+        "chance": 17
+      },
+      {
+        "tech": "GoldHand",
+        "chance": 26
+      },
+      {
+        "tech": "DragonTurn",
+        "chance": 22
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Backfist",
+    "sparkTo": [
+      {
+        "tech": "SwayBack",
+        "chance": 11
+      },
+      {
+        "tech": "CrushBeat",
+        "chance": 19
+      },
+      {
+        "tech": "OgreRun",
+        "chance": 27
+      },
+      {
+        "tech": "Scuffle",
+        "chance": 33
+      },
+      {
+        "tech": "DragonTurn",
+        "chance": 24
+      },
+      {
+        "tech": "Corkscrew",
+        "chance": 40
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "CrushBeat",
+    "sparkTo": [
+      {
+        "tech": "SwayBack",
+        "chance": 13
+      },
+      {
+        "tech": "Backfist",
+        "chance": 25
+      },
+      {
+        "tech": "OgreRun",
+        "chance": 30
+      },
+      {
+        "tech": "Scuffle",
+        "chance": 29
+      },
+      {
+        "tech": "Sliding",
+        "chance": 12
+      },
+      {
+        "tech": "SwayBack",
+        "chance": 13
+      },
+      {
+        "tech": "TriangleKick",
+        "chance": 29
+      },
+      {
+        "tech": "OgreRun",
+        "chance": 30
+      },
+      {
+        "tech": "Corkscrew",
+        "chance": 38
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Suplex",
+    "sparkTo": [
+      {
+        "tech": "RollingCradle",
+        "chance": 15
+      },
+      {
+        "tech": "KOThrow",
+        "chance": 16
+      },
+      {
+        "tech": "GiantSwing",
+        "chance": 18
+      },
+      {
+        "tech": "BabelCrumble",
+        "chance": 23
+      },
+      {
+        "tech": "LocomotionG",
+        "chance": 20
+      },
+      {
+        "tech": "DragonTurn",
+        "chance": 22
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "SR",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "GiantSwing",
+    "sparkTo": [
+      {
+        "tech": "RollingCradle",
+        "chance": 11
+      },
+      {
+        "tech": "KOThrow",
+        "chance": 13
+      },
+      {
+        "tech": "Suplex",
+        "chance": 20
+      },
+      {
+        "tech": "LocomotionG",
+        "chance": 19
+      },
+      {
+        "tech": "DragonTurn",
+        "chance": 17
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "SR",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "GoldHand",
+    "sparkTo": [
+      {
+        "tech": "SwayBack",
+        "chance": 12
+      },
+      {
+        "tech": "KOThrow",
+        "chance": 16
+      },
+      {
+        "tech": "Lastshot",
+        "chance": 38
+      },
+      {
+        "tech": "Corkscrew",
+        "chance": 39
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "R",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "BabelCrumble",
+    "sparkTo": [
+      {
+        "tech": "Sliding",
+        "chance": 9
+      },
+      {
+        "tech": "RollingCradle",
+        "chance": 10
+      },
+      {
+        "tech": "SwayBack",
+        "chance": 12
+      },
+      {
+        "tech": "Suplex",
+        "chance": 32
+      },
+      {
+        "tech": "TriangleKick",
+        "chance": 36
+      },
+      {
+        "tech": "OgreRun",
+        "chance": 36
+      },
+      {
+        "tech": "DragonTurn",
+        "chance": 17
+      },
+      {
+        "tech": "SkyTwister",
+        "chance": 37
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "TriangleKick",
+    "sparkTo": [
+      {
+        "tech": "SwayBack",
+        "chance": 14
+      },
+      {
+        "tech": "RotationKick",
+        "chance": 23
+      },
+      {
+        "tech": "OgreRun",
+        "chance": 35
+      },
+      {
+        "tech": "Corkscrew",
+        "chance": 39
+      },
+      {
+        "tech": "SkyTwister",
+        "chance": 33
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "SR",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "OgreRun",
+    "sparkTo": [
+      {
+        "tech": "DragonTurn",
+        "chance": 17
+      },
+      {
+        "tech": "Lastshot",
+        "chance": 34
+      },
+      {
+        "tech": "Corkscrew",
+        "chance": 38
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "S",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "LocomotionG",
+    "sparkTo": [
+      {
+        "tech": "Suplex",
+        "chance": 14
+      },
+      {
+        "tech": "GiantSwing",
+        "chance": 20
+      },
+      {
+        "tech": "BabelCrumble",
+        "chance": 24
+      },
+      {
+        "tech": "DragonTurn",
+        "chance": 20
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Lastshot",
+    "sparkTo": [
+      {
+        "tech": "SwayBack",
+        "chance": 12
+      },
+      {
+        "tech": "GoldHand",
+        "chance": 43
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "BrightFist",
+    "sparkTo": [
+      {
+        "tech": "SparklingRoll",
+        "chance": 14
+      },
+      {
+        "tech": "FlashTurn",
+        "chance": 28
+      },
+      {
+        "tech": "ShiningKick",
+        "chance": 11
+      },
+      {
+        "tech": "DeflectLance",
+        "chance": 26
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "SR",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "ShiningKick",
+    "sparkTo": [
+      {
+        "tech": "DeflectLance",
+        "chance": 22
+      },
+      {
+        "tech": "DeflectLance",
+        "chance": 24
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "SR",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "RaySword",
+    "sparkTo": [
+      {
+        "tech": "StunSlash",
+        "chance": 6
+      },
+      {
+        "tech": "DoubleSlash",
+        "chance": 9
+      },
+      {
+        "tech": "HardSlash",
+        "chance": 13
+      },
+      {
+        "tech": "CrossSlash",
+        "chance": 18
+      },
+      {
+        "tech": "Smash",
+        "chance": 14
+      },
+      {
+        "tech": "SwallowSwing",
+        "chance": 18
+      },
+      {
+        "tech": "Heaven/Hell",
+        "chance": 22
+      },
+      {
+        "tech": "WheelSlash",
+        "chance": 21
+      },
+      {
+        "tech": "Deflect",
+        "chance": 9
+      },
+      {
+        "tech": "BearCrush",
+        "chance": 24
+      },
+      {
+        "tech": "DeadEnd",
+        "chance": 29
+      },
+      {
+        "tech": "HeadWind",
+        "chance": 32
+      },
+      {
+        "tech": "GaleSlash",
+        "chance": 25
+      },
+      {
+        "tech": "2GaleSlash",
+        "chance": 28
+      },
+      {
+        "tech": "RisingNova",
+        "chance": 42
+      },
+      {
+        "tech": "KaiserWing",
+        "chance": 15
+      },
+      {
+        "tech": "KaiserSmash",
+        "chance": 23
+      },
+      {
+        "tech": "BrightFist",
+        "chance": 10
+      }
+    ],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "2GaleSlash",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "CrossDeflect",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Deflect",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Godless",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Haze-to-Wheel",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Heaven/Hell",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "R",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Kasumi",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "LifeSprinkler",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "RisingNova",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "S",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "RosarioImpale",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Still Stream",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "SR",
+      "MV": "",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Tres Flores",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "BoundShot",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "R",
+      "HT": "",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "CrossShot",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "R",
+      "HT": "",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "FocusShot",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "ReactionShot",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "SharpShot",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "StunShot",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "S",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "TotalShot",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "TrickShot",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Corkscrew",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "DragonTurn",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "KO Throw",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Rotation Kick",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Scuffle",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "R",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "SkyTwister",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "SwayBack",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Al-Blaster",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "SR",
+      "HT": "",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Al-Phoenix",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "SR",
+      "HT": "",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "DeflectLance",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "SR",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "FinalCrusade",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "FlashTurn",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "SR",
+      "HT": "",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "KaiserSmash",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "KaiserWing",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Re-Al-Phoenix",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "SR",
+      "HT": "",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "SparklingRoll",
+    "sparkTo": [],
+    "type": "Tech",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "SR",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Beak",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Bloodsucker",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "S",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "CharmGaze",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "DaggerJaw",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "DeathGaze",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Fang",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "FangCrush",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Grasp",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "S",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Horn",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Hypnotism",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Petrify",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "StoneGaze",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "StunGaze",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Beat",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Blade",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "BoomerangHook",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "R",
+      "HT": "",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "BrainCrush",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Claw",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "DeathTouch",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "DoubleAxe",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Feeler",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "SR",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "GaleAttack",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "GhostTouch",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "S",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "GroundHit",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "HeatSmash",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "S",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "IceSmash",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "S",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Kusanagi",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "SR",
+      "MV": "R",
+      "HT": "",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "MadAttack",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "R",
+      "MV": "R",
+      "HT": "S",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "PoisonGrip",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "PowerBeat",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Psychout",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Scissors",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "SR",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "StunTouch",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "TitasWave",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "SR",
+      "IS": "S",
+      "MV": "S",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "CentipedeCrush",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "S",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Feint",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "GriffithScratch",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "PoisonNeedle",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Stinger",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Sweep",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Tail",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "TailHit",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Coils",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Dash",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "FireKiss",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "R",
+      "MV": "S",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "GliderSpike",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "SR",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Headbutt",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "S",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "MinionStrike",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Needles",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Oscillation",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "SeedVulcan",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Solvent",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Spore",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Stampede",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "S",
+      "IS": "S",
+      "MV": "S",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Tackle",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "S",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Wing",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "AcidBreath",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "ArcticBreath",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "S",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "BeetleJuice",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "BoltBlast",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "BoltBreath",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "DeadlyMoss",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "FireBreath",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "",
+      "HT": "S",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "FlameBlast",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "",
+      "HT": "S",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "GasFlame",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "",
+      "HT": "S",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Ink",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "PoisonGas",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "PoisonGun",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "SleepGas",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "SphinxRiddle",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "StinkGas",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "StoneGas",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "SR",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "TripGas",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "WaterCannon",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "R",
+      "MV": "SR",
+      "HT": "R",
+      "CL": "S",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "BattleSong",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "S",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "BladeNet",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Ectoplasnet",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "SR",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "ElfShot",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Flash",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "GremlinTouch",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "HeatWave",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "S",
+      "HT": "S",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "HPDrain",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Ignis",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "S",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "IllStorm",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "LightBall",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Lullaby",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Maelstrom",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "S",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "MagneticStorm",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "S",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "MightyCyclone",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "SR",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "PainPowder",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Pheromone",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "PoisonMist",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Quake",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "QuickSand",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "SR",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Rock",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "SacredSong",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "SadSong",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "S",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Scream",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Seduction",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Silf",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "S",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Siren",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "SpiderNet",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "SR",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Spoil",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Supersonic",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Thunderbolt",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Tornado",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "S",
+      "DN": "SR",
+      "IS": "S",
+      "MV": "SR",
+      "HT": "R",
+      "CL": "S",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Tremor",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Windblast",
+    "sparkTo": [],
+    "type": "Monster",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "S",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "FlashFire",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "S",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "FlashFlood",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "MegaWindblast",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "S",
+      "HT": "S",
+      "CL": "S",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "SunRay",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "S",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "DarkSphere",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "SR",
+      "HT": "R",
+      "CL": "S",
+      "BO": "R",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Hidebehind",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "SR",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "PowerGrab",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "ShadowNet",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "S",
+      "IS": "S",
+      "MV": "S",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "ReverseGravity",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "S",
+      "IS": "S",
+      "MV": "S",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Vanish",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "VaporBlast",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Vortex",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "ChaosStream",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "S",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "DelayOrder",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "TimeEclipse",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "TimeLeap",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "EnergyChain",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "SR",
+      "IS": "S",
+      "MV": "R",
+      "HT": "",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Implosion",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "R",
+      "IS": "S",
+      "MV": "R",
+      "HT": "S",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "PsychicPrison",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "VermilionSand",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "S",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Fascination",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "PhantasmShot",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Lifewave",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "SR",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Spellbound",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Deathcurse",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "PainDoubler",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "S",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "RavaShot",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "SR",
+      "MV": "R",
+      "HT": "",
+      "CL": "S",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "SharpPain",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "S",
+      "DN": "",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "S",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Death",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Gold",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Saber",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "R",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Tower",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "R",
+      "DN": "S",
+      "IS": "S",
+      "MV": "R",
+      "HT": "S",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "DwarfRune",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "StasisRune",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "",
+      "DN": "",
+      "IS": "",
+      "MV": "",
+      "HT": "",
+      "CL": "",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "BlackCat",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Cockatrice",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Jackal",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Nightmare",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  },
+  {
+    "name": "Reaper",
+    "sparkTo": [],
+    "type": "Spell",
+    "combo": {
+      "DS": "S",
+      "DN": "S",
+      "IS": "S",
+      "MV": "",
+      "HT": "R",
+      "CL": "R",
+      "BO": "",
+      "SN": ""
+    }
+  }
+]

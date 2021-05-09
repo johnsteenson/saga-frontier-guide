@@ -1,0 +1,26 @@
+      AT-Missile |    |S>  |S><R|  <R|S>  |    |  <R|    | AT-Missile
+       BeamSword |    |  <R|S>  |  <R|    |    |    |    | BeamSword
+      CosmicRave |S>  |S><R|S>  |  <R|    |S><R|    |    | CosmicRave
+        Graviton |S>  |S>  |S><R|  <R|  <R|S>  |    |    | Graviton
+          Hammer |    |S><R|S>  |  <R|    |  <R|    |    | Hammer
+           Laser |  <R|S>  |S>  |  <R|  <R|  <R|    |    | Laser
+   MachineVulcan |    |  <R|S>  |    |    |  <R|    |    | MachineVulcan
+    MicroMissile |    |S>  |S>  |    |S>  |    |    |    | MicroMissile
+      RailCannon |  <R|S>  |S>  |  <R|    |  <R|    |    | RailCannon
+ StarlightShower |S>  |S>  |S>  |    |    |S>  |    |    | StarlightShower
+
+        Crosshair |  <R|    |S>  |  <R|  <R|    |    |    | Crosshair
+     HammerCrush |S>  |S>  |S><R|S><R|  <R|    |  <R|    | HammerCrush
+      HypnoFlash |S>  |S>  |S>  |    |    |    |    |    | HypnoFlash
+          Jammer |    |    |S>  |    |    |    |    |    | Jammer
+  KAMIKAZE-Crush |S>  |S><R|S>  |S><R|    |  <R|    |    | KAMIKAZE-Crush
+       LogicBomb |    |    |S>  |    |    |    |    |    | LogicBomb
+       Maelstrom |S>  |S>  |S>  |    |  -r|S>  |    |    | Maelstrom
+         Magnify |    |    |    |    |    |    |    |    | Magnify
+       MecSonata |S>  |S>  |S>  |    |    |    |  -r|    | MecSonata
+     PluralSlash |S>  |S><R|S>  |    |    |    |    |    | PluralSlash
+      Pop-Knight |S>  |S>-r|S>  |    |    |  -r|    |    | Pop-Knight
+       RangeFire |  <R|    |S>  |  <R|  <R|    |    |    | RangeFire
+   Shock Soldier |S>  |S>-r|S>  |  -r|    |  -r|    |    | Shock Soldier
+       Shoot-All |    |    |    |    |    |    |    |    | Shoot-All
+    TigerRampage |    |    |S><R|  <R|    |    |  <R|    | TigerRampage

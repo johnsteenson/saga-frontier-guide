@@ -1,0 +1,125 @@
+
+            Beak |S>  |S>  |S><R|    |    |    |    |    | Beak
+     Bloodsucker |  <R|S>  |S>  |S>  |    |    |    |    | Bloodsucker
+       CharmGaze |S>  |S>  |S>  |    |    |    |    |    | CharmGaze
+       DaggerJaw |    |    |S>  |  <R|    |  <R|    |    | DaggerJaw
+       DeathGaze |S>  |S>  |S>  |    |    |    |    |    | DeathGaze
+            Fang |    |    |    |    |    |    |    |    | Fang
+       FangCrush |    |  <R|S>  |  <R|    |  <R|    |    | FangCrush
+           Grasp |  <R|S>  |S>  |S>  |    |    |    |    | Grasp
+            Horn |    |  <R|S>  |  <R|    |    |    |    | Horn
+       Hypnotism |S>  |S>  |S>  |    |    |    |    |    | Hypnotism
+         Petrify |S>  |S>  |S>  |  <R|    |  <R|    |    | Petrify
+       StoneGaze |S>  |S>  |S>  |    |    |    |    |    | StoneGaze
+        StunGaze |S>  |S>  |S>  |    |    |    |    |    | StunGaze
+
+            Beat |    |    |S>  |    |    |    |    |    | Beat
+           Blade |    |  <R|S>  |  <R|  <R|    |    |    | Blade
+   BoomerangHook |S>  |S>  |S><R|  <R|    |    |  <R|    | BoomerangHook
+      BrainCrush |  <R|S>  |S>  |  <R|    |  <R|    |    | BrainCrush
+            Chop |    |S>  |S><R|  <R|    |    |    |    | Chop
+            Claw |    |  <R|S>  |    |    |    |    |    | Claw
+      DeathTouch |    |    |S>  |    |    |    |    |    | DeathTouch
+       DoubleAxe |  <R|S>  |S>  |    |    |  <R|    |    | DoubleAxe
+          Feeler |S><R|S>  |S>  |  <R|    |    |    |    | Feeler
+      GaleAttack |S>  |S>  |S>  |  -r|  -r|    |  -r|    | GaleAttack
+      GhostTouch |S>  |S>  |S>  |  <R|    |S>  |    |    | GhostTouch
+       GroundHit |  <R|S>  |S>  |    |    |  <R|    |    | GroundHit
+       HeatSmash |  <R|S>  |S>  |    |S>  |  <R|    |    | HeatSmash
+        IceSmash |  <R|S>  |S>  |    |  <R|S>  |    |    | IceSmash
+        Kusanagi |    |    |S><R|  <R|    |    |  <R|    | Kusanagi
+       MadAttack |    |    |  <R|  <R|S>  |    |  <R|    | MadAttack
+      PoisonGrip |    |  <R|S>  |    |    |    |    |    | PoisonGrip
+       PowerBeat |    |  <R|S>  |  <R|    |  <R|    |    | PowerBeat
+        Psychout |S>  |S>  |S>  |    |    |    |    |    | Psychout
+        Scissors |S><R|S>  |S>  |  <R|  <R|  <R|    |    | Scissors
+       StunTouch |S>  |S>  |S>  |    |    |    |    |    | StunTouch
+          Thrust |  <R|S>  |S>  |    |  <R|    |    |    | Thrust
+       TitasWave |S>  |S><R|S>  |S>  |  <R|  <R|    |    | TitasWave
+
+
+
+  CentipedeCrush |S>  |S>  |S><R|S>  |  <R|  <R|    |    | CentipedeCrush
+           Feint |S>  |S>  |S>  |    |    |    |    |    | Feint
+ GriffithScratch |  <R|S>  |S>  |  <R|  <R|    |    |    | GriffithScratch
+            Kick |    |  <R|S>  |    |    |  <R|    |    | Kick
+
+    PoisonNeedle |    |  <R|S>  |    |  <R|    |    |    | PoisonNeedle
+         Stinger |    |  <R|S>  |    |  <R|    |    |    | Stinger
+           Sweep |S>  |S>  |S>  |    |    |    |    |    | Sweep
+            Tail |  <R|S>  |S>  |    |    |    |    |    | Tail
+         TailHit |  <R|S>  |S>  |    |    |    |    |    | TailHit
+
+
+
+           Coils |S>  |S>  |S>  |  <R|  <R|  <R|    |    | Coils
+            Dash |  <R|S>  |S>  |    |    |  <R|    |    | Dash
+        FireKiss |    |    |  <R|S>  |    |  <R|    |    | FireKiss
+     GliderSpike |S>  |S><R|S>  |  <R|  <R|  <R|    |    | GliderSpike
+        Headbutt |S>  |S>  |S><R|S>  |    |  <R|    |    | Headbutt
+    MinionStrike |    |  -r|S>  |    |    |  -r|    |    | MinionStrike
+         Needles |S>  |S>  |S>  |  <R|  <R|    |    |    | Needles
+     Oscillation |S>  |S>  |S>  |    |  -r|  -r|    |    | Oscillation
+      SeedVulcan |    |  <R|S>  |  <R|    |    |    |    | SeedVulcan
+         Solvent |  <R|S>  |S>  |  <R|  <R|    |    |    | Solvent
+           Spore |S>  |S>  |S>  |    |  <R|    |    |    | Spore
+        Stampede |  -r|S>  |S>  |S>  |    |  -r|    |    | Stampede
+          Tackle |    |S>  |S><R|S>  |    |  <R|    |    | Tackle
+            Wing |S>  |S>  |S>  |  <R|  <R|  <R|    |    | Wing
+
+
+      AcidBreath |  <R|S>  |S>  |  <R|  <R|    |    |    | AcidBreath
+    ArcticBreath |    |  <R|S>  |    |  <R|S>  |    |    | ArcticBreath
+     BeetleJuice |  <R|S>  |S>  |  <R|  <R|    |    |    | BeetleJuice
+       BoltBlast |S>  |S>  |S>  |    |  <R|  <R|    |    | BoltBlast
+      BoltBreath |S>  |S>  |S>  |    |  <R|  <R|    |    | BoltBreath
+      DeadlyMoss |S>  |S>  |S>  |    |    |    |  <R|    | DeadlyMoss
+      FireBreath |    |  <R|S>  |    |S>  |  <R|    |    | FireBreath
+      FlameBlast |    |  <R|S>  |    |S>  |  <R|    |    | FlameBlast
+        GasFlame |    |  <R|S>  |    |S>  |  <R|    |    | GasFlame
+             Ink |S>  |S>  |S>  |  <R|  <R|    |    |    | Ink
+       PoisonGas |    |  <R|S>  |    |    |    |    |    | PoisonGas
+       PoisonGun |  <R|S>  |S>  |  <R|  <R|    |    |    | PoisonGun
+        SleepGas |S>  |S>  |S>  |    |    |    |    |    | SleepGas
+    SphinxRiddle |    |    |S>  |    |    |    |    |    | SphinxRiddle
+        StinkGas |S>  |S>  |S>  |    |    |    |    |    | StinkGas
+        StoneGas |S>  |S><R|S>  |    |    |    |    |    | StoneGas
+         TripGas |    |  <R|S>  |    |    |    |    |    | TripGas
+     WaterCannon |    |    |  <R|S><R|  <R|S>  |    |    | WaterCannon
+
+
+
+      BattleSong |    |    |    |    |S>  |    |    |    | BattleSong
+        BladeNet |  <R|S>  |S>  |  <R|  <R|    |    |    | BladeNet
+     Ectoplasnet |S><R|S>  |S>  |    |    |    |    |    | Ectoplasnet
+         ElfShot |  <R|S>  |S>  |  <R|    |    |    |    | ElfShot
+           Flash |S>  |S>  |S>  |    |    |    |    |    | Flash
+    GremlinTouch |    |  <R|S>  |    |    |    |    |    | GremlinTouch
+        HeatWave |    |    |  -r|S>  |S>  |  -r|    |    | HeatWave
+         HPDrain |  <R|S>  |S>  |  <R|    |    |    |    | HPDrain
+           Ignis |    |  -r|S>  |  -r|S>  |  -r|    |    | Ignis
+        IllStorm |    |S>  |S>  |    |    |    |    |    | IllStorm
+       LightBall |  -r|    |S>  |    |    |    |    |    | LightBall
+         Lullaby |    |    |S>  |    |    |    |    |    | Lullaby
+       Maelstrom |S>  |S>  |S>  |    |  -r|S>  |    |    | Maelstrom
+   MagneticStorm |S>  |S>  |S>  |S>  |  -r|  -r|    |    | MagneticStorm
+   MightyCyclone |    |    |S><R|  <R|  <R|    |    |    | MightyCyclone
+      PainPowder |S>  |S>  |S>  |  <R|  <R|  <R|    |    | PainPowder
+       Pheromone |    |    |S>  |    |    |    |    |    | Pheromone
+      PoisonMist |    |S>  |S>  |    |    |    |    |    | PoisonMist
+           Quake |    |    |  -r|    |    |  -r|    |    | Quake
+       QuickSand |    |S><R|S>  |    |    |    |    |    | QuickSand
+            Rock |  <R|S>  |S>  |  <R|    |  <R|    |    | Rock
+      SacredSong |S>  |S>  |S>  |    |  -r|  -r|    |    | SacredSong
+         SadSong |    |    |S>  |    |    |S>  |    |    | SadSong
+          Scream |  <R|S>  |S>  |    |  <R|    |    |    | Scream
+       Seduction |    |    |S>  |    |    |    |    |    | Seduction
+            Silf |    |  <R|S>  |  <R|  <R|S>  |    |    | Silf
+           Siren |  -r|S>  |S>  |    |  -r|    |    |    | Siren
+       SpiderNet |S><R|S>  |S>  |    |    |    |    |    | SpiderNet
+           Spoil |  <R|S>  |S>  |    |    |    |    |    | Spoil
+      Supersonic |  <R|S>  |S>  |    |  <R|    |    |    | Supersonic
+     Thunderbolt |S>  |S>  |S>  |  <R|  <R|  <R|    |    | Thunderbolt
+         Tornado |S>  |S><R|S>  |S><R|  <R|S>  |  <R|    | Tornado
+          Tremor |  -r|S>  |S>  |    |    |  -r|    |    | Tremor
+       Windblast |    |    |  -r|S>-r|    |S>  |    |    | Windblast

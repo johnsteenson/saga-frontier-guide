@@ -1,0 +1,39 @@
+           Blade |    |  <R|S>  |  <R|  <R|    |    |    | Blade
+     BloodSucker |  <R|S>  |S>  |S>  |    |    |    |    | BloodSucker
+      FireBreath |    |  <R|S>  |    |S>  |  <R|    |    | FireBreath
+           Flash |S>  |S>  |S>  |    |    |    |    |    | Flash
+   GremlinEffect |    |  <R|S>  |    |    |    |    |    | GremlinEffect
+ GriffithScratch |  <R|S>  |S>  |  <R|  <R|    |    |    | GriffithScratch
+       HeatSmash |  <R|S>  |S>  |    |S>  |  <R|    |    | HeatSmash
+       Hypnotism |S>  |S>  |S>  |    |    |    |    |    | Hypnotism
+           Lance |    |  <R|S>  |  <R|    |    |    |    | Lance
+          Needle |S>  |S>  |S>  |  <R|    |    |    |    | Needle
+     Oscillation |S>  |S>  |S>  |    |  -r|  -r|    |    | Oscillation
+          PsyNet |S>  |S>  |S>  |    |    |    |    |    | PsyNet
+
+    ArcticBreath |    |  <R|S>  |    |  <R|S>  |    |    | ArcticBreath
+     Crystalizer |S>  |S><R|S>  |    |    |S>  |    |    | Crystalizer
+    DeadlyPowder |S>  |S>  |S>  |    |  <R|    |    |    | DeadlyPowder
+          Feeler |  <R|S>  |S>  |  <R|    |    |    |    | Feeler
+       GrapeShot |    |    |S><R|  <R|    |    |    |    | GrapeShot
+        HellWing |S>  |S>  |S>  |  <R|  <R|  <R|    |    | HellWing
+        IceSmash |  <R|S>  |S>  |    |  <R|S>  |    |    | IceSmash
+    PoisonusBlow |    |  <R|S>  |  <R|    |  <R|    |    | PoisonusBlow
+       Psych-out |S>  |S>  |S>  |    |    |    |    |    | Psych-out
+           Spoil |    |S>  |S>  |    |    |    |    |    | Spoil
+   SpreadBlaster |S>  |S><R|S>  |  <R|  <R|S>  |    |    | SpreadBlaster
+    TigerRampage |    |    |S><R|  <R|    |    |  <R|    | TigerRampage
+     WaterCannon |    |    |  <R|S><R|  <R|S>  |    |    | WaterCannon
+
+      Assasinate |  <R|S>  |S>  |  <R|    |    |    |    | Assasinate
+        BladeNet |S><R|S>  |S>  |  <R|  <R|    |    |    | BladeNet
+      MysteryTap |S>  |S>  |S>  |    |    |    |    |    | MysteryTap
+       PowerKick |    |  <R|S>  |    |    |  <R|    |    | PowerKick
+       Quicksand |    |S><R|S>  |    |    |    |    |    | Quicksand
+         Spiders |    |S>  |S><R|S>  |    |    |    |    | Spiders
+     Suffocation |S>  |S>  |S>  |    |    |    |    |    | Suffocation
+           Sweep |S>  |S>  |S>  |    |    |    |    |    | Sweep
+     ThunderBall |S>  |S>  |S>  |    |  <R|  <R|    |    | ThunderBall
+     Thunderbolt |S>  |S>  |S>  |  <R|  <R|  <R|  <R|    | Thunderbolt
+       TitasWave |S>  |S><R|S>  |S>  |  <R|  <R|    |    | TitasWave
+          Tremor |  -r|S>  |S>  |    |    |  -r|    |    | Tremor

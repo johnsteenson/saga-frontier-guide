@@ -1,0 +1,79 @@
+      2GaleSlash |S>  |S>  |S>  |  -r|  -r|  -r|    |    | 2GaleSlash
+       BearCrush |    |  <R|S>  |    |    |  <R|    |    | BearCrush
+    CrossDeflect |    |    |    |    |    |    |    |    | CrossDeflect
+      CrossSlash |    |  <R|    |  <R|  <R|    |  <R|    | CrossSlash
+         DeadEnd |  <R|    |    |  <R|  <R|    |    |    | DeadEnd
+         Deflect |    |    |    |    |    |    |    |    | Deflect
+     DoubleSlash |    |  <R|    |    |  <R|    |    |    | DoubleSlash
+       GaleSlash |S>  |S>  |S>  |  -r|  -r|  -r|    |    | GaleSlash
+         Godless |    |    |    |    |    |    |    |    | Godless
+       HardSlash |S>  |S>  |S><R|  <R|    |    |  <R|    | HardSlash
+   Haze-to-Wheel |S>  |S>  |S>  |  -r|  -r|    |    |    | Haze-to-Wheel
+        HeadWind |  <R|S>  |S>  |  <R|  <R|  <R|    |    | HeadWind
+     Heaven/Hell |    |    |  <R|  <R|  <R|    |    |    | Heaven/Hell
+          Kasumi |    |    |    |    |    |    |    |    | Kasumi
+   LifeSprinkler |  <R|S>  |S>  |  <R|  <R|  <R|    |    | LifeSprinkler
+        NoMoment |  <R|S>  |S>  |    |  <R|  <R|    |    | NoMoment
+      RisingNova |    |  <R|S>  |S>  |    |  <R|    |    | RisingNova
+   RosarioImpale |S>  |S>  |S>  |  <R|  <R|    |    |    | RosarioImpale
+           Smash |    |  <R|S>  |    |    |  <R|    |    | Smash
+    Still Stream |    |    |S><R|    |  <R|  <R|    |    | Still Stream
+       StunSlash |  <R|S>  |S>  |  <R|    |    |    |    | StunSlash
+    SwallowSwing |S><R|S>  |S>  |  <R|  <R|  <R|    |    | SwallowSwing
+          Thrust |    |S>  |S>  |  <R|  <R|    |    |    | Thrust
+   ThunderThrust |S>  |S>  |S><R|S><R|  <R|    |    |    | ThunderThrust
+    TripleThrust |  <R|S>  |S>  |  <R|  <R|    |    |    | TripleThrust
+   TurbidCurrent |  <R|S>  |S>  |S>  |  <R|  <R|    |    | TurbidCurrent
+      WheelSlash |S>  |S>  |S>  |  <R|  <R|    |    |    | WheelSlash
+    WillowBranch |S>  |S>  |S>  |S>  |  <R|  <R|    |    | WillowBranch
+
+        Blizzard |S>  |S>  |    |    |S>  |    |    |S>  | Blizzard
+    MoonlightCut |S>  |    |    |    |    |S>  |S>  |  <R| MoonlightCut
+   ShadowCounter |    |S><R|S>  |  <R|  <R|    |  <R|    | ShadowCounter
+     Tres Flores |    |    |    |    |    |    |  <R|    | Tres Flores
+
+       BoundShot |S>  |S>  |S><R|  <R|    |    |  <R|    | BoundShot
+       CrossShot |S>  |S>  |S><R|  <R|    |    |  <R|    | CrossShot
+       FocusShot |    |  <R|S>  |  <R|    |  <R|    |    | FocusShot
+    ReactionShot |    |    |    |    |    |    |    |    | ReactionShot
+       SharpShot |    |  <R|S>  |  <R|    |  <R|    |    | SharpShot
+        StunShot |S>  |S>  |S>  |S>  |    |    |    |    | StunShot
+       TotalShot |    |  -r|S>  |    |    |  -r|    |    | TotalShot
+       TrickShot |    |  <R|S>  |    |    |  <R|    |    | TrickShot
+
+        AirThrow |  <R|S>  |S>  |S>  |  <R|  <R|    |    | AirThrow
+    BabelCrumble |  <R|S>  |S>  |  <R|    |  <R|    |    | BabelCrumble
+        Backfist |  <R|S>  |S>  |  <R|    |  <R|    |    | Backfist
+            Chop |  <R|S>  |S>  |  <R|    |  <R|    |    | Chop
+       Corkscrew |S>  |S>  |S>  |  <R|  <R|    |  <R|    | Corkscrew
+       CrushBeat |    |  <R|S>  |  <R|    |  <R|    |    | CrushBeat
+      DragonTurn |    |    |    |    |    |    |    |    | DragonTurn
+            Fist |S>  |S>  |S><R|  <R|  <R|    |  <R|    | Fist
+      GiantSwing |  <R|S>  |S>  |S><R|    |  <R|    |    | GiantSwing
+        GoldHand |    |S>  |S><R|  <R|    |    |    |    | GoldHand
+            Kick |    |  <R|S>  |  <R|    |    |    |    | Kick
+        KO Throw |    |    |    |    |    |    |    |    | KO Throw
+        Lastshot |  <R|    |S>  |  <R|  <R|    |    |    | Lastshot
+     LocomotionG |  <R|S>  |S>  |  <R|    |  <R|    |    | LocomotionG
+         OgreRun |S>  |S>  |S>  |S>  |  <R|  <R|    |    | OgreRun
+   RollingCradle |S>  |S>  |S><R|S>  |    |  <R|    |    | RollingCradle
+   Rotation Kick |S>  |S>  |S>  |  <R|  <R|    |  <R|    | Rotation Kick
+         Scuffle |    |    |  <R|    |    |    |    |    | Scuffle
+      SkyTwister |  <R|S>  |S>  |  <R|    |  <R|    |    | SkyTwister
+         Sliding |S>  |S>  |S><R|    |    |    |    |    | Sliding
+          Suplex |  <R|S>  |S>  |S><R|    |  <R|    |    | Suplex
+        SwayBack |    |    |    |    |    |    |    |    | SwayBack
+    TriangleKick |S><R|S>  |S>  |  <R|    |    |    |    | TriangleKick
+
+   Al-Blaster |S>  |S>  |S><R|S><R|    |    |  <R|    | Al-Blaster
+      Al-Phoenix |S>  |S>  |S><R|S><R|    |    |  <R|    | Al-Phoenix
+      BrightFist |    |  <R|S>  |S><R|    |  <R|    |    | BrightFist
+    DeflectLance |    |  <R|S>  |S><R|    |  <R|    |    | DeflectLance
+    FinalCrusade |    |    |    |    |    |    |    |    | FinalCrusade
+       FlashTurn |S>  |S>  |S><R|S><R|    |    |  <R|    | FlashTurn
+     KaiserSmash |  <R|S>  |S>  |    |    |  <R|    |    | KaiserSmash
+      KaiserWing |    |S>  |S><R|  <R|  <R|    |  <R|    | KaiserWing
+        RaySword |  <R|S>  |S>  |    |    |    |    |    | RaySword
+   Re-Al-Phoenix |S>  |S>  |S><R|S><R|    |    |  <R|    | Re-Al-Phoenix
+     ShiningKick |    |  <R|S>  |S><R|    |  <R|    |    | ShiningKick
+   SparklingRoll |    |  <R|S>  |S><R|    |  <R|    |    | SparklingRoll
