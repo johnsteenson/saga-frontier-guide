@@ -6,29 +6,11 @@
 
     <template #content>
       <div class="p-fluid">
-        <div class="p-field">
-          <SkillSelector v-model:skill="skillSet.skills[0]" />
-        </div>
-        <div class="p-field">
-          <SkillSelector v-model:skill="skillSet.skills[1]" />
-        </div>
-        <div class="p-field">
-          <SkillSelector v-model:skill="skillSet.skills[2]" />
-        </div>
-        <div class="p-field">
-          <SkillSelector v-model:skill="skillSet.skills[3]" />
-        </div>
-        <div class="p-field">
-          <SkillSelector v-model:skill="skillSet.skills[4]" />
-        </div>
-        <div class="p-field">
-          <SkillSelector v-model:skill="skillSet.skills[5]" />
-        </div>
-        <div class="p-field">
-          <SkillSelector v-model:skill="skillSet.skills[6]" />
-        </div>
-        <div class="p-field">
-          <SkillSelector v-model:skill="skillSet.skills[7]" />
+        <div class="p-field" v-for="(skill, index) in skills" :key="index">
+          <SkillSelector
+            :skill="skillSet.skills[index]"
+            @onChange="skillSelected($event, index)"
+          />
         </div>
       </div>
     </template>
@@ -36,7 +18,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, ref, PropType } from "vue";
+import { defineComponent, ref, PropType, watch } from "vue";
 
 import SkillSelector from "./SkillSelector.vue";
 
@@ -48,8 +30,27 @@ const skills = skillsJson as Skill[];
 export default defineComponent({
   name: "SkillDeck",
 
-  setup(props) {
-    return {};
+  setup(props, { emit }) {
+    const curSkillSet = ref<SkillSet>(props.skillSet);
+
+    // // curSkillSet.value.console.log("IN", props.skillSet);
+
+    // watch(props.skillSet, value => {
+    //   console.log("UPDATE", value);
+    //   curSkillSet.value = value;
+    // });
+
+    const skillSelected = (skill: any, index: number) => {
+      emit("onSkillChange", {
+        skill,
+        index
+      });
+    };
+
+    return {
+      skillSelected,
+      skills: curSkillSet.value.skills
+    };
   },
 
   props: {

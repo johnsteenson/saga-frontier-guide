@@ -1,7 +1,7 @@
 import { createApp } from 'vue';
 import App from './App.vue';
 import router from './router';
-import store from './store';
+import { INJECTION_KEY, store } from './store';
 import PrimeVue from 'primevue/config';
 
 import 'primeflex/primeflex.css';
@@ -15,7 +15,7 @@ import Button from 'primevue/button';
 
 const app = createApp(App)
 
-app.use(store);
+app.use(store, INJECTION_KEY);
 app.use(router);
 app.use(PrimeVue);
 

@@ -3,20 +3,11 @@
     This is the place Ring Lord Virgil doesn't want you to ever know about!
 
     <div class="p-grid">
-      <div class="p-col-2">
-        <SkillDeck v-model:skillSet="skillSets[0]" />
-      </div>
-      <div class="p-col-2">
-        <SkillDeck v-model:skillSet="skillSets[1]" />
-      </div>
-      <div class="p-col-2">
-        <SkillDeck v-model:skillSet="skillSets[2]" />
-      </div>
-      <div class="p-col-2">
-        <SkillDeck v-model:skillSet="skillSets[3]" />
-      </div>
-      <div class="p-col-2">
-        <SkillDeck v-model:skillSet="skillSets[4]" />
+      <div class="p-col-2" v-for="(set, index) in skillSets" :key="index">
+        <SkillDeck
+          :skillSet="set"
+          @onSkillChange="updateSkills($event, index)"
+        />
       </div>
     </div>
 
@@ -25,10 +16,11 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, reactive } from "vue";
+import { defineComponent } from "vue";
 
 import SkillDeck from "@/components/SkillDeck.vue";
-import { SkillSet } from "@/types/game";
+
+import { useStore } from "@/store";
 
 export default defineComponent({
   name: "Combos",
@@ -36,34 +28,23 @@ export default defineComponent({
     SkillDeck
   },
   setup() {
-    const skillSets = reactive<SkillSet[]>([
-      {
-        name: "Character 1",
-        skills: []
-      },
-      {
-        name: "Character 2",
-        skills: []
-      },
-      {
-        name: "Character 3",
-        skills: []
-      },
-      {
-        name: "Character 4",
-        skills: []
-      },
-      {
-        name: "Character 5",
-        skills: []
-      }
-    ]);
+    const store = useStore();
+    const skillSets = store.state.skillSet;
 
     const makeCombo = () => {
       console.log(skillSets);
     };
 
+    const updateSkills = (payload: any, setIndex: number) => {
+      store.commit("setSkill", {
+        setIndex,
+        skillIndex: payload.index,
+        skill: payload.skill
+      });
+    };
+
     return {
+      updateSkills,
       makeCombo,
       skillSets
     };

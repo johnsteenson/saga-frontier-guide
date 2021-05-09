@@ -22,13 +22,16 @@ export default defineComponent({
 
   setup(props, { emit }) {
     const filteredSkills = ref<Skill[]>([]);
-    const curSkill = ref<Skill>();
+    const curSkill = ref<Skill>(props.skill);
 
     const field = ref("name"); // For option of showing remaster names
 
-    watch(props.skill, value => {
-      curSkill.value = value;
-    });
+    watch(
+      () => props.skill,
+      value => {
+        curSkill.value = value;
+      }
+    );
 
     const searchSkill = (event: any) => {
       filteredSkills.value = skills.filter((skill: Skill) => {
@@ -42,9 +45,7 @@ export default defineComponent({
       const skill = event.value as Skill;
       curSkill.value = skill;
 
-      console.log("skill", skill);
-
-      emit("skill.update", skill);
+      emit("onChange", skill);
     };
 
     return {

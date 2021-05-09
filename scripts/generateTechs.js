@@ -97,6 +97,8 @@ async function generateCombos(file, type) {
 
 
 async function run() {
+  getTech(''); // Generate blank tech
+
   await generateSparkTrees();
   await generateCombos('./data/comboTech.txt', 'Tech');
   await generateCombos('./data/comboMonster.txt', 'Monster');
