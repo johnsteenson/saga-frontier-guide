@@ -13,9 +13,9 @@
 import { defineComponent, PropType, ref, watch } from "vue";
 
 import { Skill } from "@/types/game";
-import skillsJson from "@/data/skills.json";
+// import skillsJson from "@/data/skills.json";
 
-const skills = skillsJson as Skill[];
+// const skills = skillsJson as Skill[];
 
 export default defineComponent({
   name: "SkillSelector",
@@ -34,7 +34,7 @@ export default defineComponent({
     );
 
     const searchSkill = (event: any) => {
-      filteredSkills.value = skills.filter((skill: Skill) => {
+      filteredSkills.value = props.skills.filter((skill: Skill) => {
         return (
           skill.name.toLowerCase().indexOf(event.query.toLowerCase()) !== -1
         );
@@ -61,6 +61,10 @@ export default defineComponent({
     skill: {
       required: true,
       type: Object as PropType<Skill>
+    },
+    skills: {
+      required: true,
+      type: Object as PropType<Skill[]>
     }
   }
 });

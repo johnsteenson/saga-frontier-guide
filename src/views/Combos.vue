@@ -1,38 +1,80 @@
 <template>
   <div class="home">
-    This is the place Ring Lord Virgil doesn't want you to ever know about!
-
     <div class="p-grid">
-      <div class="p-col-2" v-for="(set, index) in skillSets" :key="index">
-        <SkillDeck
-          :skillSet="set"
-          @onSkillChange="updateSkills($event, index)"
-        />
+      <div class="p-col-6 p-offset-2">
+        <p>
+          This is the tool that Ring Lord Virgil doesn't want you to know about!
+          Select any skill, and see skills that can combo with it. Continue
+          onward to make a chain of impressive skills that will bring Virgil to
+          his knees.
+        </p>
       </div>
     </div>
-
-    <Button label="Make My Combos" @click="makeCombo()" />
+    <div class="p-grid">
+      <div class="p-col-4 p-offset-3">
+        <Card>
+          <template #title>
+            Combo Explorer
+          </template>
+          <template #content>
+            <div class="p-fluid">
+              <div class="p-field" v-for="i in [0, 1, 2, 3, 4]" :key="i">
+                <SkillSelector
+                  :skill="combo[i]"
+                  :skills="skills[i]"
+                  @onChange="skillChanged($event, i)"
+                />
+              </div>
+            </div>
+          </template>
+        </Card>
+      </div>
+    </div>
   </div>
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
+import { defineComponent, ref } from "vue";
 
-import SkillDeck from "@/components/SkillDeck.vue";
+import { skillData } from "@/data";
+
+import { doesCombo } from "@/lib/combo";
 
 import { useStore } from "@/store";
+import SkillSelector from "@/components/SkillSelector.vue";
+import { Skill } from "@/types/game";
 
 export default defineComponent({
   name: "Combos",
   components: {
-    SkillDeck
+    SkillSelector
   },
   setup() {
     const store = useStore();
     const skillSets = store.state.skillSet;
 
-    const makeCombo = () => {
-      console.log(skillSets);
+    const combo = ref([
+      skillData[0],
+      skillData[0],
+      skillData[0],
+      skillData[0],
+      skillData[0]
+    ]);
+    const skills = ref([
+      skillData,
+      [skillData[0]],
+      [skillData[0]],
+      [skillData[0]],
+      [skillData[0]]
+    ]);
+
+    const skillChanged = (skill: Skill, i: number) => {
+      if (i < 4) {
+        skills.value[i + 1] = skillData.filter((nextSkill: Skill) => {
+          console.log(skill, nextSkill);
+          return doesCombo(skill, nextSkill);
+        });
+      }
     };
 
     const updateSkills = (payload: any, setIndex: number) => {
@@ -44,8 +86,10 @@ export default defineComponent({
     };
 
     return {
+      skills,
+      combo,
       updateSkills,
-      makeCombo,
+      skillChanged,
       skillSets
     };
   }

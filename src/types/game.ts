@@ -6,7 +6,7 @@ export interface Character {
 }
 
 export type ComboLink = "S" | "R" | "SR" | ""
-export interface Combo {
+export interface ComboRules {
   DS: ComboLink;
   DN: ComboLink;
   IS: ComboLink;
@@ -28,11 +28,21 @@ export interface Skill {
   remasterName?: string;
   wp?: number;
   desc?: string;
-  combo?: Combo;
+  combo?: ComboRules;
 
   sparkFrom?: SparkTo;
 
 
+}
+
+export interface Combo {
+  skills: Skill[];
+}
+
+export interface ComboList {
+  combo3: Combo[],
+  combo4: Combo[],
+  combo5: Combo[]
 }
 
 export interface SkillSet {
