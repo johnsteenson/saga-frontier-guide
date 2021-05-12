@@ -13,6 +13,9 @@ import AutoComplete from 'primevue/autocomplete'
 import Card from 'primevue/card'
 import Button from 'primevue/button';
 
+import DataTable from 'primevue/datatable';
+import Column from 'primevue/column';
+
 const app = createApp(App)
 
 app.use(store, INJECTION_KEY);
@@ -22,5 +25,7 @@ app.use(PrimeVue);
 app.component('AutoComplete', AutoComplete);
 app.component('Card', Card);
 app.component('Button', Button);
+app.component('DataTable', DataTable);
+app.component('Column', Column);
 
 app.mount('#app');

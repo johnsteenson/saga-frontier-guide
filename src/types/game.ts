@@ -22,15 +22,16 @@ export interface SparkTo {
   chance: number;
 }
 
-export type SkillType = "Tech" | "Gun" | "Spell" | "Mech" | "Monster"
+export type SkillType = "" | "Tech" | "Gun" | "Spell" | "Mech" | "Monster"
 export interface Skill {
   name: string;
+  type: SkillType;
   remasterName?: string;
   wp?: number;
   desc?: string;
   combo?: ComboRules;
 
-  sparkFrom?: SparkTo;
+  sparkTo?: SparkTo[];
 
 
 }

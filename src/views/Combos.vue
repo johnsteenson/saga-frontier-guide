@@ -71,7 +71,6 @@ export default defineComponent({
     const skillChanged = (skill: Skill, i: number) => {
       if (i < 4) {
         skills.value[i + 1] = skillData.filter((nextSkill: Skill) => {
-          console.log(skill, nextSkill);
           return doesCombo(skill, nextSkill);
         });
       }
