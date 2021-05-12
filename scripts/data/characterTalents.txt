@@ -1,0 +1,902 @@
+@Annie
+                 | StunSlash
+                 | DoubleSlash
+                 | HardSlash
+                 | Thrust
+                 | CrossSlash
+           Smash |
+                 | SwallowSwing
+                 | ThunderThrust
+                 | Heaven/Hell
+                 | WheelSlash
+                 | WillowBranch
+         Deflect |
+       BearCrush |
+         DeadEnd |
+                 | HeadWind
+                 | TripleThrust
+                 | Kasumi
+                 | NoMoment
+                 | GaleSlash
+                 | 2GaleSlash
+                 | Still Stream
+                 | TurbidCurrent
+                 | CrossDeflect
+      RisingNova |
+   RosarioImpale |
+                 | Haze-to-Wheel
+                 | LifeSprinkler
+                 | Godless
+
+                 | MoonlightCut
+   ShadowCounter |
+                 | Blizzard
+                 | Tres Flores
+
+            Kick |
+                 | AirThrow
+            Chop |
+         Sliding |
+   RollingCradle |
+        SwayBack |
+                 | Fist
+        Backfist |
+                 | CrushBeat
+                 | Rotation Kick
+                 | KO Throw
+          Suplex |
+                 | GiantSwing
+                 | GoldHand
+    BabelCrumble |
+                 | TriangleKick
+                 | OgreRun
+                 | Scuffle
+     LocomotionG |
+      DragonTurn |
+                 | Lastshot
+                 | Corkscrew
+      SkyTwister |
+
+@Asellus
+ StunSlash |
+     DoubleSlash |
+       HardSlash |
+          Thrust |
+                 | CrossSlash
+                 | Smash
+    SwallowSwing |
+   ThunderThrust |
+                 | Heaven/Hell
+      WheelSlash |
+                 | WillowBranch
+         Deflect |
+                 | BearCrush
+         DeadEnd |
+                 | HeadWind
+    TripleThrust |
+          Kasumi |
+        NoMoment |
+       GaleSlash |
+                 | 2GaleSlash
+                 | Still Stream
+                 | TurbidCurrent
+                 | CrossDeflect
+      RisingNova |
+   RosarioImpale |
+   Haze-to-Wheel |
+                 | LifeSprinkler
+         Godless |
+
+    MoonlightCut |
+   ShadowCounter |
+                 | Blizzard
+                 | Tres Flores
+
+            Kick |
+        AirThrow |
+            Chop |
+         Sliding |
+   RollingCradle |
+                 | SwayBack
+            Fist |
+                 | Backfist
+                 | CrushBeat
+   Rotation Kick |
+                 | KO Throw
+          Suplex |
+                 | GiantSwing
+                 | GoldHand
+                 | BabelCrumble
+    TriangleKick |
+         OgreRun |
+                 | Scuffle
+                 | LocomotionG
+      DragonTurn |
+                 | Lastshot
+       Corkscrew |
+                 | SkyTwister
+
+@Blue 
+       StunSlash |
+     DoubleSlash |
+       HardSlash |
+          Thrust |
+                 | CrossSlash
+           Smash |
+    SwallowSwing |
+                 | ThunderThrust
+                 | Heaven/Hell
+      WheelSlash |
+                 | WillowBranch
+         Deflect |
+       BearCrush |
+                 | DeadEnd
+                 | HeadWind
+    TripleThrust |
+          Kasumi |
+                 | NoMoment
+       GaleSlash |
+                 | 2GaleSlash
+                 | Still Stream
+   TurbidCurrent |
+                 | CrossDeflect
+      RisingNova |
+                 | RosarioImpale
+   Haze-to-Wheel |
+                 | LifeSprinkler
+                 | Godless
+
+                 | MoonlightCut
+   ShadowCounter |
+                 | Blizzard
+                 | Tres Flores
+
+            Kick |
+        AirThrow |
+                 | Chop
+         Sliding |
+                 | RollingCradle
+        SwayBack |
+                 | Fist
+        Backfist |
+       CrushBeat |
+                 | Rotation Kick
+                 | KO Throw
+          Suplex |
+                 | GiantSwing
+                 | GoldHand
+                 | BabelCrumble
+                 | TriangleKick
+         OgreRun |
+         Scuffle |
+                 | LocomotionG
+                 | DragonTurn
+                 | Lastshot
+                 | Corkscrew
+      SkyTwister |
+
+@Capt.Hamilton
+  StunSlash |
+                 | DoubleSlash
+                 | HardSlash
+          Thrust |
+                 | CrossSlash
+                 | Smash
+    SwallowSwing |
+   ThunderThrust |
+                 | Heaven/Hell
+                 | WheelSlash
+    WillowBranch |
+                 | Deflect
+       BearCrush |
+         DeadEnd |
+                 | HeadWind
+    TripleThrust |
+                 | Kasumi
+                 | NoMoment
+       GaleSlash |
+                 | 2GaleSlash
+                 | Still Stream
+   TurbidCurrent |
+                 | CrossDeflect
+      RisingNova |
+   RosarioImpale |
+                 | Haze-to-Wheel
+   LifeSprinkler |
+                 | Godless
+
+    MoonlightCut |
+                 | ShadowCounter
+        Blizzard |
+     Tres Flores |
+
+            Kick |
+                 | AirThrow
+                 | Chop
+                 | Sliding
+   RollingCradle |
+                 | SwayBack
+            Fist |
+                 | Backfist
+                 | CrushBeat
+                 | Rotation Kick
+        KO Throw |
+          Suplex |
+      GiantSwing |
+        GoldHand |
+                 | BabelCrumble
+    TriangleKick |
+                 | OgreRun
+         Scuffle |
+     LocomotionG |
+      DragonTurn |
+        Lastshot |
+                 | Corkscrew
+      SkyTwister |
+
+@Doll
+       StunSlash |
+     DoubleSlash |
+       HardSlash |
+          Thrust |
+                 | CrossSlash
+           Smash |
+    SwallowSwing |
+   ThunderThrust |
+     Heaven/Hell |
+                 | WheelSlash
+                 | WillowBranch
+         Deflect |
+                 | BearCrush
+                 | DeadEnd
+        HeadWind |
+                 | TripleThrust
+          Kasumi |
+                 | NoMoment
+       GaleSlash |
+                 | 2GaleSlash
+    Still Stream |
+                 | TurbidCurrent
+                 | CrossDeflect
+                 | RisingNova
+                 | RosarioImpale
+                 | Haze-to-Wheel
+                 | LifeSprinkler
+                 | Godless
+
+    MoonlightCut |
+   ShadowCounter |
+                 | Blizzard
+     Tres Flores |
+
+            Kick |
+        AirThrow |
+            Chop |
+         Sliding |
+   RollingCradle |
+        SwayBack |
+            Fist |
+                 | Backfist
+                 | CrushBeat
+                 | Rotation Kick
+        KO Throw |
+                 | Suplex
+                 | GiantSwing
+        GoldHand |
+    BabelCrumble |
+                 | TriangleKick
+                 | OgreRun
+                 | Scuffle
+                 | LocomotionG
+      DragonTurn |
+                 | Lastshot
+       Corkscrew |
+                 | SkyTwister
+
+@Emelia
+     StunSlash |
+     DoubleSlash |
+       HardSlash |
+          Thrust |
+                 | CrossSlash
+                 | Smash
+    SwallowSwing |
+   ThunderThrust |
+                 | Heaven/Hell
+      WheelSlash |
+                 | WillowBranch
+         Deflect |
+                 | BearCrush
+         DeadEnd |
+                 | HeadWind
+    TripleThrust |
+          Kasumi |
+        NoMoment |
+       GaleSlash |
+                 | 2GaleSlash
+                 | Still Stream
+                 | TurbidCurrent
+                 | CrossDeflect
+      RisingNova |
+   RosarioImpale |
+   Haze-to-Wheel |
+                 | LifeSprinkler
+         Godless |
+
+    MoonlightCut |
+   ShadowCounter |
+                 | Blizzard
+                 | Tres Flores
+
+            Kick |
+        AirThrow |
+            Chop |
+         Sliding |
+   RollingCradle |
+                 | SwayBack
+            Fist |
+                 | Backfist
+                 | CrushBeat
+   Rotation Kick |
+                 | KO Throw
+          Suplex |
+                 | GiantSwing
+                 | GoldHand
+                 | BabelCrumble
+    TriangleKick |
+         OgreRun |
+                 | Scuffle
+                 | LocomotionG
+      DragonTurn |
+                 | Lastshot
+       Corkscrew |
+                 | SkyTwister
+
+@Fei-on
+   StunSlash |
+     DoubleSlash |
+       HardSlash |
+          Thrust |
+                 | CrossSlash
+           Smash |
+    SwallowSwing |
+   ThunderThrust |
+     Heaven/Hell |
+                 | WheelSlash
+                 | WillowBranch
+                 | Deflect
+       BearCrush |
+         DeadEnd |
+                 | HeadWind
+    TripleThrust |
+                 | Kasumi
+                 | NoMoment
+       GaleSlash |
+                 | 2GaleSlash
+                 | Still Stream
+   TurbidCurrent |
+                 | CrossDeflect
+      RisingNova |
+   RosarioImpale |
+   Haze-to-Wheel |
+                 | LifeSprinkler
+                 | Godless
+
+                 | MoonlightCut
+                 | ShadowCounter
+        Blizzard |
+                 | Tres Flores
+
+            Kick |
+        AirThrow |
+            Chop |
+         Sliding |
+   RollingCradle |
+        SwayBack |
+            Fist |
+        Backfist |
+       CrushBeat |
+   Rotation Kick |
+        KO Throw |
+          Suplex |
+                 | GiantSwing
+        GoldHand |
+                 | BabelCrumble
+    TriangleKick |
+         OgreRun |
+         Scuffle |
+     LocomotionG |
+      DragonTurn |
+        Lastshot |
+       Corkscrew |
+                 | SkyTwister
+
+@Fuse
+ StunSlash |
+     DoubleSlash |
+       HardSlash |
+          Thrust |
+                 | CrossSlash
+           Smash |
+                 | SwallowSwing
+   ThunderThrust |
+     Heaven/Hell |
+      WheelSlash |
+                 | WillowBranch
+                 | Deflect
+       BearCrush |
+         DeadEnd |
+        HeadWind |
+    TripleThrust |
+          Kasumi |
+                 | NoMoment
+       GaleSlash |
+                 | 2GaleSlash
+                 | Still Stream
+   TurbidCurrent |
+                 | CrossDeflect
+      RisingNova |
+   RosarioImpale |
+   Haze-to-Wheel |
+   LifeSprinkler |
+         Godless |
+
+    MoonlightCut |
+   ShadowCounter |
+                 | Blizzard
+     Tres Flores |
+
+            Kick |
+        AirThrow |
+            Chop |
+                 | Sliding
+   RollingCradle |
+                 | SwayBack
+            Fist |
+        Backfist |
+       CrushBeat |
+   Rotation Kick |
+                 | KO Throw
+          Suplex |
+      GiantSwing |
+                 | GoldHand
+                 | BabelCrumble
+    TriangleKick |
+         OgreRun |
+         Scuffle |
+     LocomotionG |
+                 | DragonTurn
+        Lastshot |
+                 | Corkscrew
+      SkyTwister |
+
+@Gen
+     StunSlash |
+     DoubleSlash |
+       HardSlash |
+          Thrust |
+      CrossSlash |
+           Smash |
+    SwallowSwing |
+   ThunderThrust |
+     Heaven/Hell |
+      WheelSlash |
+    WillowBranch |
+         Deflect |
+                 | BearCrush
+                 | DeadEnd
+        HeadWind |
+    TripleThrust |
+          Kasumi |
+        NoMoment |
+       GaleSlash |
+      2GaleSlash |
+    Still Stream |
+   TurbidCurrent |
+    CrossDeflect |
+                 | RisingNova
+                 | RosarioImpale
+   Haze-to-Wheel |
+   LifeSprinkler |
+         Godless |
+
+    MoonlightCut |
+   ShadowCounter |
+        Blizzard |
+     Tres Flores |
+
+            Kick |
+        AirThrow |
+            Chop |
+                 | Sliding
+   RollingCradle |
+                 | SwayBack
+                 | Fist
+        Backfist |
+                 | CrushBeat
+   Rotation Kick |
+        KO Throw |
+          Suplex |
+      GiantSwing |
+                 | GoldHand
+    BabelCrumble |
+                 | TriangleKick
+         OgreRun |
+         Scuffle |
+     LocomotionG |
+      DragonTurn |
+                 | Lastshot
+                 | Corkscrew
+      SkyTwister |
+
+@Liza
+ StunSlash |
+     DoubleSlash |
+       HardSlash |
+          Thrust |
+      CrossSlash |
+                 | Smash
+    SwallowSwing |
+   ThunderThrust |
+     Heaven/Hell |
+      WheelSlash |
+    WillowBranch |
+         Deflect |
+                 | BearCrush
+                 | DeadEnd
+        HeadWind |
+    TripleThrust |
+          Kasumi |
+        NoMoment |
+       GaleSlash |
+      2GaleSlash |
+    Still Stream |
+                 | TurbidCurrent
+    CrossDeflect |
+                 | RisingNova
+   RosarioImpale |
+   Haze-to-Wheel |
+                 | LifeSprinkler
+         Godless |
+
+    MoonlightCut |
+   ShadowCounter |
+        Blizzard |
+                 | Tres Flores
+
+            Kick |
+        AirThrow |
+            Chop |
+                 | Sliding
+   RollingCradle |
+        SwayBack |
+            Fist |
+                 | Backfist
+       CrushBeat |
+   Rotation Kick |
+        KO Throw |
+          Suplex |
+      GiantSwing |
+                 | GoldHand
+    BabelCrumble |
+                 | TriangleKick
+         OgreRun |
+         Scuffle |
+     LocomotionG |
+      DragonTurn |
+        Lastshot |
+                 | Corkscrew
+      SkyTwister |
+
+@Lute
+  StunSlash |
+     DoubleSlash |
+                 | HardSlash
+                 | Thrust
+                 | CrossSlash
+           Smash |
+                 | SwallowSwing
+                 | ThunderThrust
+     Heaven/Hell |
+                 | WheelSlash
+                 | WillowBranch
+         Deflect |
+                 | BearCrush
+                 | DeadEnd
+        HeadWind |
+    TripleThrust |
+                 | Kasumi
+        NoMoment |
+       GaleSlash |
+                 | 2GaleSlash
+    Still Stream |
+                 | TurbidCurrent
+                 | CrossDeflect
+      RisingNova |
+                 | RosarioImpale
+                 | Haze-to-Wheel
+   LifeSprinkler |
+                 | Godless
+
+                 | MoonlightCut
+   ShadowCounter |
+                 | Blizzard
+     Tres Flores |
+
+            Kick |
+        AirThrow |
+            Chop |
+                 | Sliding
+                 | RollingCradle
+        SwayBack |
+                 | Fist
+                 | Backfist
+       CrushBeat |
+                 | Rotation Kick
+                 | KO Throw
+          Suplex |
+                 | GiantSwing
+        GoldHand |
+    BabelCrumble |
+    TriangleKick |
+         OgreRun |
+                 | Scuffle
+                 | LocomotionG
+      DragonTurn |
+        Lastshot |
+       Corkscrew |
+                 | SkyTwister
+
+
+@Mei-ling
+   StunSlash |
+     DoubleSlash |
+       HardSlash |
+          Thrust |
+                 | CrossSlash
+                 | Smash
+    SwallowSwing |
+   ThunderThrust |
+                 | Heaven/Hell
+      WheelSlash |
+                 | WillowBranch
+         Deflect |
+                 | BearCrush
+         DeadEnd |
+                 | HeadWind
+    TripleThrust |
+          Kasumi |
+        NoMoment |
+       GaleSlash |
+                 | 2GaleSlash
+                 | Still Stream
+                 | TurbidCurrent
+                 | CrossDeflect
+      RisingNova |
+   RosarioImpale |
+   Haze-to-Wheel |
+                 | LifeSprinkler
+         Godless |
+
+    MoonlightCut |
+   ShadowCounter |
+                 | Blizzard
+                 | Tres Flores
+
+            Kick |
+        AirThrow |
+            Chop |
+         Sliding |
+   RollingCradle |
+                 | SwayBack
+            Fist |
+                 | Backfist
+                 | CrushBeat
+   Rotation Kick |
+                 | KO Throw
+          Suplex |
+                 | GiantSwing
+                 | GoldHand
+                 | BabelCrumble
+    TriangleKick |
+         OgreRun |
+                 | Scuffle
+                 | LocomotionG
+      DragonTurn |
+                 | Lastshot
+       Corkscrew |
+                 | SkyTwister
+
+
+@Red
+  StunSlash |
+     DoubleSlash |
+       HardSlash |
+          Thrust |
+                 | CrossSlash
+           Smash |
+    SwallowSwing |
+   ThunderThrust |
+     Heaven/Hell |
+      WheelSlash |
+                 | WillowBranch
+         Deflect |
+       BearCrush |
+         DeadEnd |
+                 | HeadWind
+    TripleThrust |
+          Kasumi |
+                 | NoMoment
+       GaleSlash |
+                 | 2GaleSlash
+                 | Still Stream
+   TurbidCurrent |
+                 | CrossDeflect
+      RisingNova |
+   RosarioImpale |
+                 | Haze-to-Wheel
+                 | LifeSprinkler
+                 | Godless
+
+                 | MoonlightCut
+   ShadowCounter |
+        Blizzard |
+     Tres Flores |
+
+            Kick |
+        AirThrow |
+                 | Chop
+         Sliding |
+                 | RollingCradle
+        SwayBack |
+                 | Fist
+        Backfist |
+       CrushBeat |
+   Rotation Kick |
+                 | KO Throw
+          Suplex |
+                 | GiantSwing
+                 | GoldHand
+    BabelCrumble |
+    TriangleKick |
+         OgreRun |
+         Scuffle |
+     LocomotionG |
+      DragonTurn |
+                 | Lastshot
+                 | Corkscrew
+      SkyTwister |
+
+      KaiserWing |
+     KaiserSmash |
+      BrightFist |
+   SparklingRoll |
+       FlashTurn |
+      Al-Blaster |
+      Al-Phoenix |
+   Re-Al-Phoenix |
+     ShiningKick |
+    DeflectLance |
+    FinalCrusade |
+
+@Roufas
+ StunSlash |
+     DoubleSlash |
+       HardSlash |
+                 | Thrust
+      CrossSlash |
+                 | Smash
+    SwallowSwing |
+   ThunderThrust |
+     Heaven/Hell |
+      WheelSlash |
+    WillowBranch |
+                 | Deflect
+                 | BearCrush
+                 | DeadEnd
+        HeadWind |
+    TripleThrust |
+          Kasumi |
+        NoMoment |
+       GaleSlash |
+      2GaleSlash |
+                 | Still Stream
+   TurbidCurrent |
+    CrossDeflect |
+                 | RisingNova
+                 | RosarioImpale
+   Haze-to-Wheel |
+   LifeSprinkler |
+         Godless |
+
+    MoonlightCut |
+   ShadowCounter |
+        Blizzard |
+     Tres Flores |
+
+            Kick |
+        AirThrow |
+                 | Chop
+                 | Sliding
+                 | RollingCradle
+        SwayBack |
+            Fist |
+        Backfist |
+       CrushBeat |
+   Rotation Kick |
+        KO Throw |
+          Suplex |
+      GiantSwing |
+        GoldHand |
+                 | BabelCrumble
+    TriangleKick |
+         OgreRun |
+         Scuffle |
+                 | LocomotionG
+                 | DragonTurn
+        Lastshot |
+       Corkscrew |
+                 | SkyTwister
+
+@Rouge
+   StunSlash |
+     DoubleSlash |
+       HardSlash |
+          Thrust |
+                 | CrossSlash
+           Smash |
+    SwallowSwing |
+                 | ThunderThrust
+                 | Heaven/Hell
+      WheelSlash |
+                 | WillowBranch
+         Deflect |
+       BearCrush |
+                 | DeadEnd
+                 | HeadWind
+    TripleThrust |
+          Kasumi |
+                 | NoMoment
+       GaleSlash |
+                 | 2GaleSlash
+                 | Still Stream
+   TurbidCurrent |
+                 | CrossDeflect
+      RisingNova |
+                 | RosarioImpale
+   Haze-to-Wheel |
+                 | LifeSprinkler
+                 | Godless
+
+                 | MoonlightCut
+   ShadowCounter |
+                 | Blizzard
+                 | Tres Flores
+
+            Kick |
+        AirThrow |
+                 | Chop
+         Sliding |
+                 | RollingCradle
+        SwayBack |
+                 | Fist
+        Backfist |
+       CrushBeat |
+                 | Rotation Kick
+                 | KO Throw
+          Suplex |
+                 | GiantSwing
+                 | GoldHand
+                 | BabelCrumble
+                 | TriangleKick
+         OgreRun |
+         Scuffle |
+                 | LocomotionG
+                 | DragonTurn
+                 | Lastshot
+                 | Corkscrew
+      SkyTwister |
+
+
+
+

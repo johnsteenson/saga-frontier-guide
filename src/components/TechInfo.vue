@@ -36,7 +36,11 @@
           Natural Talent
         </template>
 
-        <template #content> </template>
+        <template #content>
+          <DataTable :value="charactersWithTalent" responsiveLayout="scroll">
+            <Column field="name" header="Name"></Column>
+          </DataTable>
+        </template>
       </Card>
     </div>
   </div>
@@ -45,8 +49,8 @@
 <script lang="ts">
 import { defineComponent, ref, PropType, watch, computed } from "vue";
 
-import { skillData } from "@/data";
-import { Skill, SparkTo } from "@/types/game";
+import { skillData, characterData } from "@/data";
+import { Character, Skill, SparkTo } from "@/types/game";
 
 export default defineComponent({
   name: "TechInfo",
@@ -79,9 +83,20 @@ export default defineComponent({
       }, []);
     });
 
+    const charactersWithTalent = computed(() => {
+      return characterData.filter((char: Character) => {
+        return (
+          char.sparkTalent.findIndex(
+            (talent: string) => talent === skill.value.name
+          ) !== -1
+        );
+      });
+    });
+
     return {
       sparkTo,
-      sparkFrom
+      sparkFrom,
+      charactersWithTalent
     };
   },
 

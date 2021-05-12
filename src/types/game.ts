@@ -1,8 +1,10 @@
 
+export type CharacterType = "Human" | "Mystic" | "Mech" | "Monster"
 
 export interface Character {
   name: string;
-  talent: string[];
+  type: CharacterType;
+  sparkTalent: string[];
 }
 
 export type ComboLink = "S" | "R" | "SR" | ""

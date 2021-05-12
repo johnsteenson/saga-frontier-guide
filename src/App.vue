@@ -1,7 +1,6 @@
 <template>
   <div id="nav">
     <router-link to="/">Home</router-link> |
-    <router-link to="/characters">Characters</router-link> |
     <router-link to="/skills">Techs</router-link> |
     <router-link to="/combos">Combos</router-link>
   </div>
