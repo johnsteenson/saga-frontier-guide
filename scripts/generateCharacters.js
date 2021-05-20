@@ -3,7 +3,7 @@ const fs = require('fs');
 
 const characters = [];
 
-function getCharacter(name) {
+function getCharacter(name, type = "Human") {
   const result = characters.find((character) => character.name === name);
   if (result) {
     return result;
@@ -11,7 +11,7 @@ function getCharacter(name) {
 
   const newCharacter = {
     "name": name,
-    "type": "Human",
+    "type": type,
     "sparkTalent": []
   };
 
@@ -52,7 +52,7 @@ async function generateTalentList() {
 
 
 async function run() {
-  getCharacter(''); // Generate blank char
+  getCharacter('', ''); // Generate blank char
 
   await generateTalentList();
 

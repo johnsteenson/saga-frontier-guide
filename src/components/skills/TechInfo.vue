@@ -7,7 +7,12 @@
         </template>
 
         <template #content>
-          <DataTable :value="sparkFrom" responsiveLayout="scroll">
+          <DataTable
+            :value="sparkFrom"
+            selectionMode="single"
+            @rowSelect="onSkillSelect"
+            responsiveLayout="scroll"
+          >
             <Column field="tech" header="Skill"></Column>
             <Column field="chance" header="Chance"></Column>
           </DataTable>
@@ -22,7 +27,12 @@
         </template>
 
         <template #content>
-          <DataTable :value="sparkTo" responsiveLayout="scroll">
+          <DataTable
+            :value="sparkTo"
+            selectionMode="single"
+            @rowSelect="onSkillSelect"
+            responsiveLayout="scroll"
+          >
             <Column field="tech" header="Skill"></Column>
             <Column field="chance" header="Chance"></Column>
           </DataTable>
@@ -37,7 +47,12 @@
         </template>
 
         <template #content>
-          <DataTable :value="charactersWithTalent" responsiveLayout="scroll">
+          <DataTable
+            :value="charactersWithTalent"
+            selectionMode="single"
+            @rowSelect="onCharacterSelect"
+            responsiveLayout="scroll"
+          >
             <Column field="name" header="Name"></Column>
           </DataTable>
         </template>
@@ -51,12 +66,14 @@ import { defineComponent, ref, PropType, watch, computed } from "vue";
 
 import { skillData, characterData } from "@/data";
 import { Character, Skill, SparkTo } from "@/types/game";
+import { useRouter } from "vue-router";
 
 export default defineComponent({
   name: "TechInfo",
 
   setup(props, { emit }) {
     const skill = ref<Skill>(props.skill);
+    const router = useRouter();
 
     watch(
       () => props.skill,
@@ -93,10 +110,20 @@ export default defineComponent({
       });
     });
 
+    const onSkillSelect = (event: any) => {
+      router.push({ path: `/skills/${event.data.tech}` });
+    };
+
+    const onCharacterSelect = (event: any) => {
+      router.push({ path: `/characters/${event.data.name}` });
+    };
+
     return {
       sparkTo,
       sparkFrom,
-      charactersWithTalent
+      charactersWithTalent,
+      onCharacterSelect,
+      onSkillSelect
     };
   },
 

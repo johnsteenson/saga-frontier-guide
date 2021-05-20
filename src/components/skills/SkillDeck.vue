@@ -20,7 +20,7 @@
 <script lang="ts">
 import { defineComponent, ref, PropType, watch } from "vue";
 
-import SkillSelector from "./SkillSelector.vue";
+import SkillSelector from "../SkillSelector.vue";
 
 import { Skill, SkillSet } from "@/types/game";
 import skillsJson from "@/data/skills.json";
