@@ -3,7 +3,7 @@ name: Build and Deploy
 on: 
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
@@ -16,7 +16,7 @@ jobs:
 
     steps:
     - name: Checkout Branch
-      uses: actions/checkout@master
+      uses: actions/checkout@main
 
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
